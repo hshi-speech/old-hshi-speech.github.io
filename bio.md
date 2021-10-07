@@ -1,0 +1,1 @@
+Brandon Amos (http://bamos.github.io/) is a research scientist at Facebook AI Research in New York City with research interests in machine learning and optimization, recently with a focus on reinforcement learning, control, optimal transport, and geometry.

@@ -1,4 +1,4 @@
- I am a Ph.D. student in Speech and Audio Processing Lab., (Kyoto University, Japan) where I studied under the supervision of Prof. Tatsuya Kawahara. I received the Master鈥檚 degree from College of Intelligence and Computing, Tianjin University. My main topics are speech enhancement and robust automatic speech recognition. <br><br>
+ I am a Ph.D. student in Speech and Audio Processing Lab., (Kyoto University, Japan) where I studied under the supervision of Prof. Tatsuya Kawahara. I received the Master degree from College of Intelligence and Computing, Tianjin University. My main topics are speech enhancement and robust automatic speech recognition. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -20,7 +20,7 @@
       <strong>M.Phil. in Computer Science</strong>, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> *<a href="https://github.com/hshi-speech/resume/blob/main/pdf/master_thesis.pdf" target="_blank">Spectrograms Fusion-based Speech Enhancement</a>*
+        <br> *<a href="https://github.com/hshi-speech/resume/blob/main/pdf/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
         <br> Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
     </td>

@@ -1,3 +1,4 @@
+
 ## <i class="fa fa-chevron-right"></i> Publications
 
 Representative publications that I am a primary author on are

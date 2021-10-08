@@ -51,6 +51,17 @@
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Professional Activities
+<table class="table table-hover">
+<tr>
+  <td>
+      INTERSPEECH 2020 (Shanghai) Volunteer
+  <td class='col-md-2' style='text-align:right;'>2020</td>
+  </td>
+</tr>
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
@@ -101,3 +112,4 @@ Rock
   </td>
 </tr>
 </table>
+

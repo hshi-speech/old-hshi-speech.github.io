@@ -45,16 +45,19 @@ Representative publications that I am a primary author on are
     onclick='$("#abs_yin21_iconip").toggle()'>abs</a>]<br>
     
 <div id="abs_yin21_iconip" style="text-align: justify; display: none" markdown="1">
-Speech enhancement (SE) benefits from multi-stage stacking. However, this will introduce a lot of new parameters to the neural
-network. In this paper, we propose a simultaneous progressive filteringbased monaural SE model. Mapping-based and masking-based
-SE systems are simultaneously obtained with multi-target learning (MTL). Different from other MTL systems, our proposed model
-addresses different enhancement needs. The mapping-based SE system aims to recover speech signals from noisy features. While the
-masking-based SE system serves as a post-filtering to further reduce the noise that still exists after the mapping-based SE system.
-With the high signal-to-noise ratio inputs, noise reduction of the masking-based SE system is obvious with little speech signal
-loss. These two stages share one neural network which controls the parameters of the entire system with little or
-no increase. In addition, our approach is easy to integrate with existing methods and improve their performance significantly and
-stably. The experiments on Valentini-Botinhao data set show our proposed model achieves 0.12 PESQ improvement compared with directly
-mapping-based and masking-based SE systems both in single-target and multi-target learning. Furthermore, by comparing spectrograms, we find that our proposed models are able to recover better harmonic information.
+  Speech enhancement (SE) benefits from multi-stage stacking. However, this will introduce a lot of new parameters to the 
+  neural network. In this paper, we propose a simultaneous progressive filtering based monaural SE model. Mapping-based 
+  and masking-based SE systems are simultaneously obtained with multi-target learning (MTL). Different from other MTL 
+  systems, our proposed model addresses different enhancement needs. The mapping-based SE system aims to recover speech 
+  signals from noisy features. While the masking-based SE system serves as a post-filtering to further reduce the noise 
+  that still exists after the mapping-based SE system. With the high signal-to-noise ratio inputs, noise reduction of the 
+  masking-based SE system is obvious with little speech signal loss. These two stages share one neural network which 
+  controls the parameters of the entire system with little or no increase. In addition, our approach is easy to integrate 
+  with existing methods and improve their performance significantly and stably. The experiments on Valentini-Botinhao data 
+  set show our proposed model achieves 0.12 PESQ improvement compared with directly mapping-based and masking-based SE 
+  systems both in single-target and multi-target learning. Furthermore, by comparing spectrograms, we find that our proposed 
+  models are able to recover better harmonic information.
+
 </div>
 
 </td>

@@ -1,3 +1,8 @@
+---
+layout: singlePage
+title: "Blog Posts"
+---
+
 
 ## <i class="fa fa-chevron-right"></i> Publications
 

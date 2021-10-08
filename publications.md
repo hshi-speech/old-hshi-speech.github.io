@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: indexpub
 title: Hao Shi
 ---
 

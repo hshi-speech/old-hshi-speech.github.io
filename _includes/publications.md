@@ -19,16 +19,15 @@ Representative publications that I am a primary author on are
     onclick='$("#abs_qiang21_iconip").toggle()'>abs</a>]<br>
     
 <div id="abs_qiang21_iconip" style="text-align: justify; display: none" markdown="1">
-  Recently, deep learning-based speech dereverberation approaches have achieved remarkable performance by directly mapping 
-  the input spectrogram to a target spectrogram or time-frequency mask. However, these approaches are usually optimized 
-  under distance-related objective functions—the mean square error (MSE). The traditional MSE training criterion results in 
-  a strong inherent uniform variance statistical assumption on the target speech and noise during training, which cannot be 
-  satisfied in real-world scenarios. To alleviate such an assumption mismatch problem, we propose a speech dereverberation 
-  solution called Scale-aware Speech Dereverberation (SaSD) based on scaled-MSE. Specifically, we modify the MSE with 
-  different scales for each frequency band and progressively reduce the gap between the low- and high-frequency ranges to 
-  make the error follow the assumption of MSE assumption. Experiments demonstrated that SaSD achieved 1.0 SRMR and 0.8 PESQ 
-  improvements over the mapping baseline system.
-
+Recently, deep learning-based speech dereverberation approaches have achieved remarkable performance by directly
+mapping the input spectrogram to a target spectrogram or time-frequency mask. However, these approaches are usually
+optimized under distance-related objective functions: the mean square error (MSE). The traditional MSE training
+criterion results in a strong inherent uniform variance statistical assumption on the target speech and noise during
+training, which cannot be satisfied in real-world scenarios. To alleviate such an assumption mismatch problem, we
+propose a speech dereverberation solution called Scale-aware Speech Dereverberation (SaSD) based on scaled-MSE.
+Specifically, we modify the MSE with different scales for each frequency band and progressively reduce the gap
+between the low- and high-frequency ranges to make the error follow the assumption of MSE assumption. Experiments
+demonstrated that SaSD achieved 1.0 SRMR and 0.8 PESQ improvements over the mapping baseline system.
 </div>
 
 </td>
@@ -45,19 +44,19 @@ Representative publications that I am a primary author on are
     onclick='$("#abs_yin21_iconip").toggle()'>abs</a>]<br>
     
 <div id="abs_yin21_iconip" style="text-align: justify; display: none" markdown="1">
-  Speech enhancement (SE) benefits from multi-stage stacking. However, this will introduce a lot of new parameters to the 
-  neural network. In this paper, we propose a simultaneous progressive filtering based monaural SE model. Mapping-based 
-  and masking-based SE systems are simultaneously obtained with multi-target learning (MTL). Different from other MTL 
-  systems, our proposed model addresses different enhancement needs. The mapping-based SE system aims to recover speech 
-  signals from noisy features. While the masking-based SE system serves as a post-filtering to further reduce the noise 
-  that still exists after the mapping-based SE system. With the high signal-to-noise ratio inputs, noise reduction of the 
-  masking-based SE system is obvious with little speech signal loss. These two stages share one neural network which 
-  controls the parameters of the entire system with little or no increase. In addition, our approach is easy to integrate 
-  with existing methods and improve their performance significantly and stably. The experiments on Valentini-Botinhao data 
-  set show our proposed model achieves 0.12 PESQ improvement compared with directly mapping-based and masking-based SE 
-  systems both in single-target and multi-target learning. Furthermore, by comparing spectrograms, we find that our proposed 
-  models are able to recover better harmonic information.
-
+Speech enhancement (SE) benefits from multi-stage stacking. However, this will introduce a lot of new
+parameters to the neural network. In this paper, we propose a simultaneous progressive filtering based
+monaural SE model. Mapping-based and masking-based SE systems are simultaneously obtained with
+multi-target learning (MTL). Different from other MTL systems, our proposed model addresses different
+enhancement needs. The mapping-based SE system aims to recover speech signals from noisy features. While
+the masking-based SE system serves as a post-filtering to further reduce the noise that still exists
+after the mapping-based SE system. With the high signal-to-noise ratio inputs, noise reduction of the
+masking-based SE system is obvious with little speech signal loss. These two stages share one neural
+network which controls the parameters of the entire system with little or no increase. In addition, our approach is easy to integrate with existing methods and improve their performance significantly and
+stably. The experiments on Valentini-Botinhao data set show our proposed model achieves 0.12 PESQ
+improvement compared with directly mapping-based and masking-based SE systems both in single-target
+and multi-target learning. Furthermore, by comparing spectrograms, we find that our proposed models are
+able to recover better harmonic information.
 </div>
 
 </td>
@@ -74,14 +73,16 @@ Representative publications that I am a primary author on are
     onclick='$("#abs_shi21_apsipa").toggle()'>abs</a>]<br>
     
 <div id="abs_shi21_apsipa" style="text-align: justify; display: none" markdown="1">
-To improve the robustness of automatic speech recognition (ASR), speech enhancement (SE) is often used as a
-front-end noise-removal process. Although there is complementarity between the mapping-based and the
-mask-based SE system, one of the SE systems has been conventionally used as the frontend of ASR. We propose
-a spectrogram fusion (SF)-based endto-end (E2E) robust ASR system, in which the mapping-based and
-masking-based SE are used as the front-end simultaneously. We adopt SF to combine the advantages of
+To improve the robustness of automatic speech recognition (ASR), speech enhancement (SE) is often used
+as a front-end noise-removal process. Although there is complementarity between the mapping-based and
+the mask-based SE system, one of the SE systems has been conventionally used as the front-end of ASR.
+We propose a spectrogram fusion (SF)-based end-to-end (E2E) robust ASR system, in which the mapping-based
+and masking-based SE are used as the front-end simultaneously. We adopt SF to combine the advantages of
 mapping-based and masking-based SE systems. SF and ASR modules are connected in an E2E manner, and joint
-training is conducted to finetune the front-end and the back-end. We compared the performance of different
-front-ends after joint training. From the experiments using Aishell and PNL 100 Nonspeech Sounds datasets, we found that the fusion of two SEs are beneficial for ASR, especially under low signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
+training is conducted to finetune the front-end and the back-end. We compared the performance of
+different front-ends after joint training. From the experiments using Aishell and PNL 100 Nonspeech
+Sounds datasets, we found that the fusion of two SEs are beneficial for ASR, especially under low
+signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
 </div>
 
 </td>
@@ -172,3 +173,4 @@ approach outperformed existing methods, improving PESQ from 2.56 to 2.87 and SRM
 </tr>
 
 </table>
+

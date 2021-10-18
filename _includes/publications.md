@@ -36,7 +36,7 @@ demonstrated that SaSD achieved 1.0 SRMR and 0.8 PESQ improvements over the mapp
 
 <tr id="tr-yin21_iconip" style="background-color: #ffffd0">
 <td>
-    <em><a href='https://hshi-speech.github.io/resume/pdf/SaSD.pdf' target='_blank'>Simultaneous Progressive Filtering-based Monaural Speech Enhancement</a> </em><br>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>Simultaneous Progressive Filtering-based Monaural Speech Enhancement</a> </em><br>
     Haoran&nbsp;Yin, <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi&nbsp;(Joint&nbsp;First&nbsp;Author)</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, Luya&nbsp;Qiang, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, Gaoyan&nbsp;Zhang, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
     ICONIP 2021  <br>
     [2] 
@@ -66,7 +66,7 @@ able to recover better harmonic information.
 <tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
 <td>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, Cunhang&nbsp;Fan, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and <a href='https://scholar.google.com/citations?user=o3AmlFYAAAAJ' target='_blank'>Tatsuya&nbsp;Kawahara</a><br>
+    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=QbnlF74AAAAJ' target='_blank'>Cunhang&nbsp;Fan</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and <a href='https://scholar.google.com/citations?user=o3AmlFYAAAAJ' target='_blank'>Tatsuya&nbsp;Kawahara</a><br>
     APSIPA 2021  <br>
     [3] 
 [<a href='javascript:;'
@@ -94,7 +94,7 @@ signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
 
 <tr id="tr-shi20_interspeech" style="background-color: #ffffd0">
 <td>
-    <em><a href='https://hshi-speech.github.io/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>Singing Voice Extraction with Attention-Based Spectrograms Fusion</a> </em><br>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>Singing Voice Extraction with Attention-Based Spectrograms Fusion</a> </em><br>
     <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, Chenchen&nbsp;Ding, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Hiroshi&nbsp;Seki<br>
     INTERSPEECH 2020  <br>
     [4] 
@@ -119,7 +119,7 @@ evaluation of speech quality, signal-to-distortion ratio, signal-to-interference
 
 <tr id="tr-9054661" style="background-color: #ffffd0">
 <td>
-    <em><a href='https://hshi-speech.github.io/resume/blob/main/pdf/0007539.pdf' target='_blank'>Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation</a> </em><br>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/0007539.pdf' target='_blank'>Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation</a> </em><br>
     <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
     ICASSP 2020  <br>
     [5] 
@@ -150,7 +150,7 @@ average SRMR gain of 1.22 in all real data.
 
 <tr id="tr-ge19_interspeech" >
 <td>
-    <em><a href='https://hshi-speech.github.io/resume/blob/main/pdf/1477.pdf' target='_blank'>Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement</a> </em><br>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/1477.pdf' target='_blank'>Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement</a> </em><br>
     <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Xiangang&nbsp;Li<br>
     INTERSPEECH 2019  <br>
     [6] 
@@ -173,3 +173,4 @@ approach outperformed existing methods, improving PESQ from 2.56 to 2.87 and SRM
 </tr>
 
 </table>
+

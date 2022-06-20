@@ -13,7 +13,7 @@ Representative publications that I am a primary author on are
 <font size=2>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
     Monaural speech enhancement based on spectrogram decomposition for convolutional neural network-sensitive feature extraction.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
-    In Proc. APSIPA ASC, pp.438--442, 2021.<br>
+    In Proc. Interspeech, pp.438--442, 2022.<br>
 </font>
 </td>
 </tr>

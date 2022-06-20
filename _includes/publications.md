@@ -6,7 +6,7 @@ Representative publications that I am a primary author on are
 [<a href="https://scholar.google.com/citations?user=DclFbLwAAAAJ&hl">Google Scholar</a>]
 
 
-<h2>First Author</h2>
+<h3>First Author</h3>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
 <td>
@@ -51,7 +51,7 @@ Representative publications that I am a primary author on are
 
 
 
-<h2>Co-first Author</h2>
+<h3>Co-first Author</h3>
 <table class="table table-hover">
 
 <tr id="tr-qiang21_iconip">
@@ -78,7 +78,7 @@ Representative publications that I am a primary author on are
 
 
 
-<h2>Co-author</h2>
+<h3>Co-author</h3>
 <table class="table table-hover">
 <tr id="tr-ge19_interspeech" >
 <td>

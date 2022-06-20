@@ -4,7 +4,6 @@
 Representative publications that I am a primary author on are
 <span style='background-color: #ffffd0'>highlighted.</span><br>
 [<a href="https://scholar.google.com/citations?user=DclFbLwAAAAJ&hl">Google Scholar</a>]
-[<a href="https://github.com/bamos/cv/blob/master/publications/all.bib">BibTeX</a>]
 
 <h2>2021</h2>
 <table class="table table-hover">

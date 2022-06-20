@@ -11,7 +11,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
 <td>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Cunhang&nbsp;Fan, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara<br>
-    Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>[ref]</a> </em><br>
+    Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. APSIPA ASC, pp.438--442, 2021.<br>
 </td>
 </tr>
@@ -19,7 +19,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-shi20_interspeech" style="background-color: #ffffd0">
 <td>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Chenchen&nbsp;Ding, Meng&nbsp;Ge, Nan&nbsp;Li, Jianwu&nbsp;Dang, and Hiroshi&nbsp;Seki<br>
-    Singing Voice Extraction with Attention-Based Spectrograms Fusion&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>[ref]</a> </em><br>
+    Singing Voice Extraction with Attention-Based Spectrograms Fusion&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. INTERSPEECH, pp.2412--2416, 2020.<br>
 </td>
 </tr>
@@ -27,7 +27,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-9054661" style="background-color: #ffffd0">
 <td>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Meng&nbsp;Ge, Sheng&nbsp;Li, and Jianwu&nbsp;Dang<br>
-    Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/0007539.pdf' target='_blank'>[ref]</a> </em><br>
+    Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/0007539.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. ICASSP, pp.7539--7543, 2020.<br>
 </td>
 </tr>
@@ -41,7 +41,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-qiang21_iconip" style="background-color: #ffffd0">
 <td>
     Luya&nbsp;Qiang, Hao&nbsp;Shi, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang<br>
-    Speech Dereverberation Based on Scale-aware Mean Square Error Loss&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/SaSD.pdf' target='_blank'>[ref]</a> </em><br>
+    Speech Dereverberation Based on Scale-aware Mean Square Error Loss&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/SaSD.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc of ICONIP, pp.55--63, 2021.<br>
 </td>
 </tr>
@@ -50,7 +50,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-yin21_iconip" style="background-color: #ffffd0">
 <td>
     Haoran&nbsp;Yin, Hao&nbsp;Shi, Longbiao&nbsp;Wang, Luya&nbsp;Qiang, Sheng&nbsp;Li, Meng&nbsp;Ge, Gaoyan&nbsp;Zhang, and Jianwu&nbsp;Dang<br>
-    Simultaneous Progressive Filtering-based Monaural Speech Enhancement&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>[ref]</a> </em><br>
+    Simultaneous Progressive Filtering-based Monaural Speech Enhancement&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. ICONIP, pp.213--221, 2021.<br>
 </td>
 </tr>
@@ -64,7 +64,7 @@ Representative publications that I am a primary author on are
 <tr id="tr-ge19_interspeech" >
 <td>
     Meng&nbsp;Ge, Longbiao&nbsp;Wang, Nan&nbsp;Li, Hao&nbsp;Shi, Jianwu&nbsp;Dang, and Xiangang&nbsp;Li<br>
-    Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement&nbsp<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/1477.pdf' target='_blank'>[ref]</a> </em><br>
+    Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/1477.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. INTERSPEECH, pp.3151--3157, 2019.<br>
 
 </td>

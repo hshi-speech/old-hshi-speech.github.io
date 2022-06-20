@@ -6,11 +6,90 @@ Representative publications that I am a primary author on are
 [<a href="https://scholar.google.com/citations?user=DclFbLwAAAAJ&hl">Google Scholar</a>]
 
 
+<h2>First Author</h2>
+<table class="table table-hover">
+<tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
+<td>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
+    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=QbnlF74AAAAJ' target='_blank'>Cunhang&nbsp;Fan</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and <a href='https://scholar.google.com/citations?user=o3AmlFYAAAAJ' target='_blank'>Tatsuya&nbsp;Kawahara</a><br>
+    APSIPA 2021  <br>
+    [3] 
+[<a href='javascript:;'
+    onclick='$("#abs_shi21_apsipa").toggle()'>abs</a>]<br>
+    
+<div id="abs_shi21_apsipa" style="text-align: justify; display: none" markdown="1">
+To improve the robustness of automatic speech recognition (ASR), speech enhancement (SE) is often used
+as a front-end noise-removal process. Although there is complementarity between the mapping-based and
+the mask-based SE system, one of the SE systems has been conventionally used as the front-end of ASR.
+We propose a spectrogram fusion (SF)-based end-to-end (E2E) robust ASR system, in which the mapping-based
+and masking-based SE are used as the front-end simultaneously. We adopt SF to combine the advantages of
+mapping-based and masking-based SE systems. SF and ASR modules are connected in an E2E manner, and joint
+training is conducted to finetune the front-end and the back-end. We compared the performance of
+different front-ends after joint training. From the experiments using Aishell and PNL 100 Nonspeech
+Sounds datasets, we found that the fusion of two SEs are beneficial for ASR, especially under low
+signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
+</div>
+</td>
+</tr>
+
+<tr id="tr-shi20_interspeech" style="background-color: #ffffd0">
+<td>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>Singing Voice Extraction with Attention-Based Spectrograms Fusion</a> </em><br>
+    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, Chenchen&nbsp;Ding, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Hiroshi&nbsp;Seki<br>
+    INTERSPEECH 2020  <br>
+    [4] 
+[<a href='javascript:;'
+    onclick='$("#abs_shi20_interspeech").toggle()'>abs</a>]<br>
+    
+<div id="abs_shi20_interspeech" style="text-align: justify; display: none" markdown="1">
+We propose a novel attention mechanism-based spectrograms fusion system with minimum difference masks (MDMs)
+estimation for singing voice extraction. Compared with previous works that use a fully connected neural
+network, our system takes advantage of the multi-head attention mechanism. Specifically, we 1) try a variety
+of embedding methods of multiple spectrograms as the input of attention mechanisms, which can provide
+multi-scale correlation information between adjacent frames in the spectrograms; 2) add a regular term to
+loss function to obtain better continuity of spectrogram; 3) use the phase of the linear fusion waveform to
+reconstruct the final waveform, which can reduce the impact of the inconsistent spectrogram. Experiments on
+the MIR-1K dataset show that our system consistently improves the quantitative evaluation by the perceptual
+evaluation of speech quality, signal-to-distortion ratio, signal-to-interference ratio, and signal-to-artifact ratio.
+</div>
+
+</td>
+</tr>
+
+
+<tr id="tr-9054661" style="background-color: #ffffd0">
+<td>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/0007539.pdf' target='_blank'>Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation</a> </em><br>
+    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
+    ICASSP 2020  <br>
+    [5] 
+[<a href='javascript:;'
+    onclick='$("#abs_9054661").toggle()'>abs</a>]<br>
+    
+<div id="abs_9054661" style="text-align: justify; display: none" markdown="1">
+Spectrograms fusion is an effective method for incorporating complementary speech dereverberation systems.
+Previous linear spectrograms fusion by averaging multiple spectrograms shows outstanding performance.
+However, various systems with different features cannot apply this simple method. In this study, we design
+the minimum difference masks (MDMs) to classify the time-frequency (T-F) bins in spectrograms according to
+the nearest distances from labels. Then, we propose a two-stage nonlinear spectrograms fusion system for
+speech dereverberation. First, we conduct a multitarget learning-based speech dereverberation front-end
+model to get spectrograms simultaneously. Then, MDMs are estimated to take the best parts of different
+spectrograms. We are using spectrograms in the first stage and MDMs in the second stage to recombine T-F
+bins. The experiments on the REVERB challenge show that a strong feature complementarity between
+spectrograms and MDMs. Moreover, the proposed framework can consistently and significantly improve PESQ
+and SRMR, both real and simulated data, e.g., an average PESQ gain of 0.1 in all simulated data and an
+average SRMR gain of 1.22 in all real data.
+</div>
+
+</td>
+</tr>
+
+
+</table>
 
 
 
-
-<h2>2021</h2>
+<h2>Co-first Author</h2>
 <table class="table table-hover">
 
 <tr id="tr-qiang21_iconip" style="background-color: #ffffd0">
@@ -65,91 +144,11 @@ able to recover better harmonic information.
 
 </td>
 </tr>
-
-
-<tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
-<td>
-    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=QbnlF74AAAAJ' target='_blank'>Cunhang&nbsp;Fan</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and <a href='https://scholar.google.com/citations?user=o3AmlFYAAAAJ' target='_blank'>Tatsuya&nbsp;Kawahara</a><br>
-    APSIPA 2021  <br>
-    [3] 
-[<a href='javascript:;'
-    onclick='$("#abs_shi21_apsipa").toggle()'>abs</a>]<br>
-    
-<div id="abs_shi21_apsipa" style="text-align: justify; display: none" markdown="1">
-To improve the robustness of automatic speech recognition (ASR), speech enhancement (SE) is often used
-as a front-end noise-removal process. Although there is complementarity between the mapping-based and
-the mask-based SE system, one of the SE systems has been conventionally used as the front-end of ASR.
-We propose a spectrogram fusion (SF)-based end-to-end (E2E) robust ASR system, in which the mapping-based
-and masking-based SE are used as the front-end simultaneously. We adopt SF to combine the advantages of
-mapping-based and masking-based SE systems. SF and ASR modules are connected in an E2E manner, and joint
-training is conducted to finetune the front-end and the back-end. We compared the performance of
-different front-ends after joint training. From the experiments using Aishell and PNL 100 Nonspeech
-Sounds datasets, we found that the fusion of two SEs are beneficial for ASR, especially under low
-signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
-</div>
-
-</td>
-</tr>
-
 </table>
-<h2>2020</h2>
-<table class="table table-hover">
-
-<tr id="tr-shi20_interspeech" style="background-color: #ffffd0">
-<td>
-    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>Singing Voice Extraction with Attention-Based Spectrograms Fusion</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, Chenchen&nbsp;Ding, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Hiroshi&nbsp;Seki<br>
-    INTERSPEECH 2020  <br>
-    [4] 
-[<a href='javascript:;'
-    onclick='$("#abs_shi20_interspeech").toggle()'>abs</a>]<br>
-    
-<div id="abs_shi20_interspeech" style="text-align: justify; display: none" markdown="1">
-We propose a novel attention mechanism-based spectrograms fusion system with minimum difference masks (MDMs)
-estimation for singing voice extraction. Compared with previous works that use a fully connected neural
-network, our system takes advantage of the multi-head attention mechanism. Specifically, we 1) try a variety
-of embedding methods of multiple spectrograms as the input of attention mechanisms, which can provide
-multi-scale correlation information between adjacent frames in the spectrograms; 2) add a regular term to
-loss function to obtain better continuity of spectrogram; 3) use the phase of the linear fusion waveform to
-reconstruct the final waveform, which can reduce the impact of the inconsistent spectrogram. Experiments on
-the MIR-1K dataset show that our system consistently improves the quantitative evaluation by the perceptual
-evaluation of speech quality, signal-to-distortion ratio, signal-to-interference ratio, and signal-to-artifact ratio.
-</div>
-
-</td>
-</tr>
 
 
-<tr id="tr-9054661" style="background-color: #ffffd0">
-<td>
-    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/0007539.pdf' target='_blank'>Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
-    ICASSP 2020  <br>
-    [5] 
-[<a href='javascript:;'
-    onclick='$("#abs_9054661").toggle()'>abs</a>]<br>
-    
-<div id="abs_9054661" style="text-align: justify; display: none" markdown="1">
-Spectrograms fusion is an effective method for incorporating complementary speech dereverberation systems.
-Previous linear spectrograms fusion by averaging multiple spectrograms shows outstanding performance.
-However, various systems with different features cannot apply this simple method. In this study, we design
-the minimum difference masks (MDMs) to classify the time-frequency (T-F) bins in spectrograms according to
-the nearest distances from labels. Then, we propose a two-stage nonlinear spectrograms fusion system for
-speech dereverberation. First, we conduct a multitarget learning-based speech dereverberation front-end
-model to get spectrograms simultaneously. Then, MDMs are estimated to take the best parts of different
-spectrograms. We are using spectrograms in the first stage and MDMs in the second stage to recombine T-F
-bins. The experiments on the REVERB challenge show that a strong feature complementarity between
-spectrograms and MDMs. Moreover, the proposed framework can consistently and significantly improve PESQ
-and SRMR, both real and simulated data, e.g., an average PESQ gain of 0.1 in all simulated data and an
-average SRMR gain of 1.22 in all real data.
-</div>
 
-</td>
-</tr>
-
-</table>
-<h2>2019</h2>
+<h2>Co-author</h2>
 <table class="table table-hover">
 
 <tr id="tr-ge19_interspeech" >

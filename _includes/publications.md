@@ -7,7 +7,7 @@ Representative publications that I am a primary author on are
 <br>
 <br>
 
-<h3>First Author</h3>
+<h4>First Author</h4>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
 <td>
@@ -52,7 +52,7 @@ Representative publications that I am a primary author on are
 
 
 
-<h3>Co-first Author</h3>
+<h4>Co-first Author</h4>
 <table class="table table-hover">
 
 <tr id="tr-qiang21_iconip">
@@ -79,7 +79,7 @@ Representative publications that I am a primary author on are
 
 
 
-<h3>Co-author</h3>
+<h4>Co-author</h4>
 <table class="table table-hover">
 <tr id="tr-ge19_interspeech" >
 <td>

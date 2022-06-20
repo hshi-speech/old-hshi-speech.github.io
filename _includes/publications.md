@@ -18,25 +18,9 @@ Representative publications that I am a primary author on are
 
 <tr id="tr-shi20_interspeech" style="background-color: #ffffd0">
 <td>
+    Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Chenchen&nbsp;Ding, Meng&nbsp;Ge, Nan&nbsp;Li, Jianwu&nbsp;Dang, and Hiroshi&nbsp;Seki<br>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>Singing Voice Extraction with Attention-Based Spectrograms Fusion</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, Chenchen&nbsp;Ding, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Hiroshi&nbsp;Seki<br>
-    INTERSPEECH 2020  <br>
-    [4] 
-[<a href='javascript:;'
-    onclick='$("#abs_shi20_interspeech").toggle()'>abs</a>]<br>
-    
-<div id="abs_shi20_interspeech" style="text-align: justify; display: none" markdown="1">
-We propose a novel attention mechanism-based spectrograms fusion system with minimum difference masks (MDMs)
-estimation for singing voice extraction. Compared with previous works that use a fully connected neural
-network, our system takes advantage of the multi-head attention mechanism. Specifically, we 1) try a variety
-of embedding methods of multiple spectrograms as the input of attention mechanisms, which can provide
-multi-scale correlation information between adjacent frames in the spectrograms; 2) add a regular term to
-loss function to obtain better continuity of spectrogram; 3) use the phase of the linear fusion waveform to
-reconstruct the final waveform, which can reduce the impact of the inconsistent spectrogram. Experiments on
-the MIR-1K dataset show that our system consistently improves the quantitative evaluation by the perceptual
-evaluation of speech quality, signal-to-distortion ratio, signal-to-interference ratio, and signal-to-artifact ratio.
-</div>
-
+    In Proc. INTERSPEECH, pp.2412--2416, 2020.<br>
 </td>
 </tr>
 

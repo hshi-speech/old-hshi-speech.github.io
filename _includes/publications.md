@@ -11,24 +11,8 @@ Representative publications that I am a primary author on are
 <tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
 <td>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
-    <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=QbnlF74AAAAJ' target='_blank'>Cunhang&nbsp;Fan</a>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and <a href='https://scholar.google.com/citations?user=o3AmlFYAAAAJ' target='_blank'>Tatsuya&nbsp;Kawahara</a><br>
+    Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Cunhang&nbsp;Fan, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara<br>
     APSIPA 2021  <br>
-    [3] 
-[<a href='javascript:;'
-    onclick='$("#abs_shi21_apsipa").toggle()'>abs</a>]<br>
-    
-<div id="abs_shi21_apsipa" style="text-align: justify; display: none" markdown="1">
-To improve the robustness of automatic speech recognition (ASR), speech enhancement (SE) is often used
-as a front-end noise-removal process. Although there is complementarity between the mapping-based and
-the mask-based SE system, one of the SE systems has been conventionally used as the front-end of ASR.
-We propose a spectrogram fusion (SF)-based end-to-end (E2E) robust ASR system, in which the mapping-based
-and masking-based SE are used as the front-end simultaneously. We adopt SF to combine the advantages of
-mapping-based and masking-based SE systems. SF and ASR modules are connected in an E2E manner, and joint
-training is conducted to finetune the front-end and the back-end. We compared the performance of
-different front-ends after joint training. From the experiments using Aishell and PNL 100 Nonspeech
-Sounds datasets, we found that the fusion of two SEs are beneficial for ASR, especially under low
-signal-to-noise ratio, where a relative improvement of more than 7% is achieved.
-</div>
 </td>
 </tr>
 

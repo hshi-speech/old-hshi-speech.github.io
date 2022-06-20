@@ -37,7 +37,7 @@ Representative publications that I am a primary author on are
 <td>
 <li>
 <font size=2>
-    <u>Hao&nbsp;Shi<u/>, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Chenchen&nbsp;Ding, Meng&nbsp;Ge, Nan&nbsp;Li, Jianwu&nbsp;Dang, and Hiroshi&nbsp;Seki.<br>
+    <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Chenchen&nbsp;Ding, Meng&nbsp;Ge, Nan&nbsp;Li, Jianwu&nbsp;Dang, and Hiroshi&nbsp;Seki.<br>
     Singing Voice Extraction with Attention-Based Spectrograms Fusion.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Wed-1-11-1.pdf' target='_blank'>[ref]</a> </em><br>
     In Proc. INTERSPEECH, pp.2412--2416, 2020.<br>
 </font>

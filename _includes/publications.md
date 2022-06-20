@@ -24,7 +24,6 @@ Representative publications that I am a primary author on are
 </td>
 </tr>
 
-
 <tr id="tr-9054661" style="background-color: #ffffd0">
 <td>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Meng&nbsp;Ge, Sheng&nbsp;Li, and Jianwu&nbsp;Dang<br>
@@ -32,8 +31,6 @@ Representative publications that I am a primary author on are
     In Proc. ICASSP, pp.7539--7543, 2020.<br>
 </td>
 </tr>
-
-
 </table>
 
 
@@ -43,25 +40,9 @@ Representative publications that I am a primary author on are
 
 <tr id="tr-qiang21_iconip" style="background-color: #ffffd0">
 <td>
+    Luya&nbsp;Qiang, Hao&nbsp;Shi, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang<br>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/SaSD.pdf' target='_blank'>Speech Dereverberation Based on Scale-aware Mean Square Error Loss</a> </em><br>
-    Luya&nbsp;Qiang, <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi&nbsp;(Joint&nbsp;First&nbsp;Author)</a></strong>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, Haoran&nbsp;Yin, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
-    ICONIP 2021  <br>
-    [1] 
-[<a href='javascript:;'
-    onclick='$("#abs_qiang21_iconip").toggle()'>abs</a>]<br>
-    
-<div id="abs_qiang21_iconip" style="text-align: justify; display: none" markdown="1">
-Recently, deep learning-based speech dereverberation approaches have achieved remarkable performance by directly
-mapping the input spectrogram to a target spectrogram or time-frequency mask. However, these approaches are usually
-optimized under distance-related objective functions: the mean square error (MSE). The traditional MSE training
-criterion results in a strong inherent uniform variance statistical assumption on the target speech and noise during
-training, which cannot be satisfied in real-world scenarios. To alleviate such an assumption mismatch problem, we
-propose a speech dereverberation solution called Scale-aware Speech Dereverberation (SaSD) based on scaled-MSE.
-Specifically, we modify the MSE with different scales for each frequency band and progressively reduce the gap
-between the low- and high-frequency ranges to make the error follow the assumption of MSE assumption. Experiments
-demonstrated that SaSD achieved 1.0 SRMR and 0.8 PESQ improvements over the mapping baseline system.
-</div>
-
+    In Proc of ICONIP, pp.55--63, 2021.<br>
 </td>
 </tr>
 

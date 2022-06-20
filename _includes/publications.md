@@ -10,9 +10,9 @@ Representative publications that I am a primary author on are
 <table class="table table-hover">
 <tr id="tr-shi21_apsipa" style="background-color: #ffffd0">
 <td>
-    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
     Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Cunhang&nbsp;Fan, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara<br>
-    APSIPA 2021  <br>
+    <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/APSIPA-2021.pdf' target='_blank'>Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition</a> </em><br>
+    In Proc. APSIPA ASC, pp.438--442, 2021.<br>
 </td>
 </tr>
 

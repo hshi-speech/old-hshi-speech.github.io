@@ -49,29 +49,9 @@ Representative publications that I am a primary author on are
 
 <tr id="tr-yin21_iconip" style="background-color: #ffffd0">
 <td>
+    Haoran&nbsp;Yin, Hao&nbsp;Shi, Longbiao&nbsp;Wang, Luya&nbsp;Qiang, Sheng&nbsp;Li, Meng&nbsp;Ge, Gaoyan&nbsp;Zhang, and Jianwu&nbsp;Dang<br>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>Simultaneous Progressive Filtering-based Monaural Speech Enhancement</a> </em><br>
-    Haoran&nbsp;Yin, <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi&nbsp;(Joint&nbsp;First&nbsp;Author)</a></strong>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, Luya&nbsp;Qiang, <a href='https://scholar.google.com/citations?user=zHAhs0IAAAAJ' target='_blank'>Sheng&nbsp;Li</a>, <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, Gaoyan&nbsp;Zhang, and <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a><br>
-    ICONIP 2021  <br>
-    [2] 
-[<a href='javascript:;'
-    onclick='$("#abs_yin21_iconip").toggle()'>abs</a>]<br>
-    
-<div id="abs_yin21_iconip" style="text-align: justify; display: none" markdown="1">
-Speech enhancement (SE) benefits from multi-stage stacking. However, this will introduce a lot of new
-parameters to the neural network. In this paper, we propose a simultaneous progressive filtering based
-monaural SE model. Mapping-based and masking-based SE systems are simultaneously obtained with
-multi-target learning (MTL). Different from other MTL systems, our proposed model addresses different
-enhancement needs. The mapping-based SE system aims to recover speech signals from noisy features. While
-the masking-based SE system serves as a post-filtering to further reduce the noise that still exists
-after the mapping-based SE system. With the high signal-to-noise ratio inputs, noise reduction of the
-masking-based SE system is obvious with little speech signal loss. These two stages share one neural
-network which controls the parameters of the entire system with little or no increase. In addition, our approach is easy to integrate with existing methods and improve their performance significantly and
-stably. The experiments on Valentini-Botinhao data set show our proposed model achieves 0.12 PESQ
-improvement compared with directly mapping-based and masking-based SE systems both in single-target
-and multi-target learning. Furthermore, by comparing spectrograms, we find that our proposed models are
-able to recover better harmonic information.
-</div>
-
+    In Proc. ICONIP, pp.213--221, 2021.<br>
 </td>
 </tr>
 </table>
@@ -83,24 +63,9 @@ able to recover better harmonic information.
 
 <tr id="tr-ge19_interspeech" >
 <td>
+    Meng&nbsp;Ge, Longbiao&nbsp;Wang, Nan&nbsp;Li, Hao&nbsp;Shi, Jianwu&nbsp;Dang, and Xiangang&nbsp;Li<br>
     <em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/1477.pdf' target='_blank'>Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement</a> </em><br>
-    <a href='https://scholar.google.com/citations?user=Ody4GF0AAAAJ' target='_blank'>Meng&nbsp;Ge</a>, <a href='https://scholar.google.com/citations?user=1Z9_5ZgAAAAJ' target='_blank'>Longbiao&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=9BVJbdsAAAAJ' target='_blank'>Nan&nbsp;Li</a>, <strong><a href='https://scholar.google.com/citations?user=DclFbLwAAAAJ' target='_blank'>Hao&nbsp;Shi</a></strong>, <a href='https://scholar.google.com/citations?user=Wk5ApskAAAAJ' target='_blank'>Jianwu&nbsp;Dang</a>, and Xiangang&nbsp;Li<br>
-    INTERSPEECH 2019  <br>
-    [6] 
-[<a href='javascript:;'
-    onclick='$("#abs_ge19_interspeech").toggle()'>abs</a>]<br>
-    
-<div id="abs_ge19_interspeech" style="text-align: justify; display: none" markdown="1">
-Speech enhancement aims to keep the real speech signal and reduce noise for building robust communication systems.
-Under the success of DNN, significant progress has been made. Nevertheless, accuracy of the speech enhancement
-system is not satisfactory due to insufficient consideration of varied environmental and contextual information in
-complex cases. To address these problems, this research proposes an end-to-end environment-dependent attention-driven
-approach. The local frequency-temporal pattern via convolutional neural network is fully employed without pooling
-operation. It then integrates an attention mechanism into bidirectional long short-term memory to acquire the weighted
-dynamic context between consecutive frames. Furthermore, dynamic environment estimation and phase correction further
-improve the generalization ability. Extensive experimental results on REVERB challenge demonstrated that the proposed
-approach outperformed existing methods, improving PESQ from 2.56 to 2.87 and SRMR from 4.95 to 5.50 compared with conventional DNN.
-</div>
+    In Proc. INTERSPEECH, pp.3151--3157, 2019.<br>
 
 </td>
 </tr>

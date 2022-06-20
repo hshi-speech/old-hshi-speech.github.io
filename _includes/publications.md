@@ -10,17 +10,15 @@ Representative publications that I am a primary author on are
 <h4>First Author</h4>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
-<li>
 <td>
-
+<li>
 <font size=2>
-    Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
-    Monaural speech enhancement based on spectrogram decomposition for convolutional neural network-sensitive feature extraction.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
-    In Proc. Interspeech, pp.438--442, 2022.<br>
+    “Hao&nbsp;Shi, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.”<br>
+    “Monaural speech enhancement based on spectrogram decomposition for convolutional neural network-sensitive feature extraction.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em>“<br>
+    “In Proc. Interspeech, pp.438--442, 2022.”<br>
 </font>
-
-</td>
 </li>
+</td>
 </tr>
     
 <tr id="tr-shi21_apsipa">

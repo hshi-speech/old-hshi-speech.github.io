@@ -93,6 +93,30 @@ Representative publications that I am a primary author on are
 
 <h4>Co-author</h4>
 <table class="table table-hover">
+<tr id="tr-song22_interspeech" >
+<td>
+<li>
+<font size=2>
+    Tongtong&nbsp;Song, Qiang&nbsp;Xu, Meng&nbsp;Ge, Longbiao&nbsp;Wang, Hao&nbsp;Shi, Yongjie&nbsp;Lv, Yuqin&nbsp;Lin, and Jianwu&nbsp;Dang.<br>
+    Language-specific Characteristic Assistance for Code-switching Speech Recognition.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
+    In Proc. INTERSPEECH, pp., 2022.<br>
+</font>
+</li>
+</td>
+</tr>
+    
+<tr id="tr-xu22_interspeech" >
+<td>
+<li>
+<font size=2>
+    Qiang&nbsp;Xu, Tongtong&nbsp;Song, Longbiao&nbsp;Wang, Hao&nbsp;Shi, Yuqin&nbsp;Lin, Yongjie&nbsp;Lv, Meng&nbsp;Ge, Qiang&nbsp;Yu, and Jianwu&nbsp;Dang.<br>
+    Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
+    In Proc. INTERSPEECH, pp., 2022.<br>
+</font>
+</li>
+</td>
+</tr>
+    
 <tr id="tr-ge19_interspeech" >
 <td>
 <li>

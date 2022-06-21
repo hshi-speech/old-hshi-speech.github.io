@@ -6,33 +6,39 @@
 <table class="table table-hover">
   <tr>
     <td>
+      <font size=3>
       <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*
         <br> Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
         </p>
+       </font>
     </td>
     <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
   </tr>
   <tr>
     <td>
+      <font size=3>
       <strong>M.Phil. in Computer Science</strong>, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *<a href="https://github.com/hshi-speech/resume/blob/main/pdf/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
         <br> Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
+       </font>
     </td>
     <td class="col-md-2" style='text-align:right;'>2018 - 2021</td>
   </tr>
   <tr>
     <td>
+      <font size=3>
       <strong>B.Sc. in Computer Science</strong>, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisors: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di</a>
         </p>
+      </font>
     </td>
     <td class="col-md-2" style='text-align:right;'>2014 - 2018</td>
   </tr>

@@ -3,17 +3,14 @@
 #### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
   <tr>
+    <font size=2.5>
     <td>
-      <font size=2.5>
-      <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*
         <br> Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
         </p>
-       </font>
     </td>
-    <font size=2.5>
     <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
     </font>
   </tr>

@@ -2,9 +2,10 @@
 
 #### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
-  <font size=2>
+  <font size=2.5>
   <tr>
     <td>
+     <strong>PhD. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*

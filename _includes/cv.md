@@ -4,7 +4,7 @@
 <table class="table table-hover">
   <tr>
     <td>
-      <font size=2>
+      <font size=2.5>
       <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -13,7 +13,9 @@
         </p>
        </font>
     </td>
+    <font size=2.5>
     <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
+    </font>
   </tr>
   <tr>
     <td>

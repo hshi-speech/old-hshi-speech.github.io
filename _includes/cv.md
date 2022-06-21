@@ -4,6 +4,7 @@
 <table class="table table-hover">
   <font size=2>
   <tr>
+   <li>
     <td>
      <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
@@ -12,6 +13,7 @@
         <br> Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
         </p>
     </td>
+    </li>
     <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
   </tr>
   </font>

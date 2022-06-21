@@ -62,7 +62,7 @@
 </table>
 
 
-#### <i class="fa fa-chevron-right"></i> Professional Activities
+#### <i class="fa fa-chevron-right"></i> Academic Events
 <table class="table table-hover">
 <tr>
   <td>

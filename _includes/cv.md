@@ -2,8 +2,8 @@
 
 #### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
+  <font size=2.5>
   <tr>
-    <font size=2.5>
     <td>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -12,8 +12,8 @@
         </p>
     </td>
     <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
-    </font>
   </tr>
+  </font>
   <tr>
     <td>
       <font size=3>

@@ -1,6 +1,6 @@
  I am a Ph.D. student in Speech and Audio Processing Lab., (Kyoto University, Japan) where I studied under the supervision of Prof. Tatsuya Kawahara. I received the Master degree from College of Intelligence and Computing, Tianjin University. My main topics are speech enhancement and robust automatic speech recognition. <br><br>
 
-##### <i class="fa fa-chevron-right"></i> Education
+#### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
   <font size=2>
   <tr>
@@ -50,7 +50,7 @@
 </table>
 
 
-##### <i class="fa fa-chevron-right"></i> Research Experience
+#### <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'><li>Aug. 2021 - Present</li></td>
@@ -62,7 +62,7 @@
 </table>
 
 
-##### <i class="fa fa-chevron-right"></i> Professional Activities
+#### <i class="fa fa-chevron-right"></i> Professional Activities
 <table class="table table-hover">
 <tr>
   <td>
@@ -73,7 +73,7 @@
 </table>
 
 
-##### <i class="fa fa-chevron-right"></i> Skills
+#### <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'><li>Programming</li></td>
@@ -96,7 +96,7 @@ Linux, vim git, tmux
 </table>
 
 
-##### <i class="fa fa-chevron-right"></i> Hobbies
+#### <i class="fa fa-chevron-right"></i> Hobbies
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'><li>Piano</li></td>

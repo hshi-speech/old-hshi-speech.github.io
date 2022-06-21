@@ -5,7 +5,7 @@
   <font size=2.5>
   <tr>
     <td>
-     <strong>PhD. in Computer Science</strong>, Kyoto University
+     <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*

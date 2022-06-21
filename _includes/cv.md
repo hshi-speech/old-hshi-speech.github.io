@@ -4,7 +4,7 @@
 <table class="table table-hover">
   <tr>
     <td>
-      <font size=3>
+      <font size=2>
       <strong>Ph.D. in Computer Science</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>

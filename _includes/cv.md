@@ -20,12 +20,14 @@
   <tr>
     <td>
       <font size=3>
+      <li>
       <strong>M.Phil. in Computer Science</strong>, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *<a href="https://github.com/hshi-speech/resume/blob/main/pdf/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
         <br> Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
+       </li>
        </font>
     </td>
     <td class="col-md-2" style='text-align:right;'>2018 - 2021</td>
@@ -33,12 +35,14 @@
   <tr>
     <td>
       <font size=3>
+      <li>
       <strong>B.Sc. in Computer Science</strong>, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisors: -
          <!-- <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di</a> -->
         </p>
+      </li>
       </font>
     </td>
     <td class="col-md-2" style='text-align:right;'>2014 - 2018</td>
@@ -49,7 +53,7 @@
 #### <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Aug. 2021 - Present</td>
+  <td class='col-md-3'><li>Aug. 2021 - Present</li></td>
   <td>
     <strong>Tianjin University</strong>,  <br>
     Speech signal processing
@@ -62,7 +66,7 @@
 <table class="table table-hover">
 <tr>
   <td>
-      INTERSPEECH 2020 (Shanghai) Volunteer
+      <li>INTERSPEECH 2020 (Shanghai) Volunteer</li>
   <td class='col-md-2' style='text-align:right;'>2020</td>
   </td>
 </tr>
@@ -72,19 +76,19 @@
 #### <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Programming</td>
+  <td class='col-md-2'><li>Programming</li></td>
   <td>
 C, C++, Java, Python
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <td class='col-md-2'><li>Frameworks</li></td>
   <td>
 NumPy, PyTorch, SciPy, TensorFlow
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Tools</td>
+  <td class='col-md-2'><li>Tools</li></td>
   <td>
 Linux, vim git, tmux
   </td>
@@ -95,31 +99,31 @@ Linux, vim git, tmux
 #### <i class="fa fa-chevron-right"></i> Hobbies
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Piano</td>
+  <td class='col-md-2'><li>Piano</li></td>
   <td>
 Sonata
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Basketball</td>
+  <td class='col-md-2'><li>Basketball</li></td>
   <td>
 Small Forward (SF)
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Swimming</td>
+  <td class='col-md-2'><li>Swimming</li></td>
   <td>
 Breaststroke
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Music</td>
+  <td class='col-md-2'><li>Music</li></td>
   <td>
 Rock
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Singing</td>
+  <td class='col-md-2'><li>Singing</li></td>
   <td>
 Very general
   </td>

@@ -63,7 +63,7 @@ Representative publications that I am a primary author on are
       <font size=2>
       Luya&nbsp;Qiang, <u>Hao&nbsp;Shi</u>, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang.<br>
       Speech Dereverberation Based on Scale-aware Mean Square Error Loss.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/SaSD.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc of ICONIP, pp.55--63, 2021.<br>
+      In Proc of ICONIP, pp.55--63, 2021.<br> (Joint first author, equal ocntribution)
       </font>
     </li>
   </td>
@@ -75,7 +75,7 @@ Representative publications that I am a primary author on are
       <font size=2>
       Haoran&nbsp;Yin, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Luya&nbsp;Qiang, Sheng&nbsp;Li, Meng&nbsp;Ge, Gaoyan&nbsp;Zhang, and Jianwu&nbsp;Dang.<br>
       Simultaneous Progressive Filtering-based Monaural Speech Enhancement.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc. ICONIP, pp.213--221, 2021.<br>
+      In Proc. ICONIP, pp.213--221, 2021.<br> (Joint first author, equal ocntribution)
       </font>
     </li>
   </td>

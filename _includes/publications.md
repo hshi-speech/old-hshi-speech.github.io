@@ -27,7 +27,8 @@ Representative publications that I am a primary author on are
       <font size=2>
       Tongtong&nbsp;Song, Qiang&nbsp;Xu, Meng&nbsp;Ge, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yongjie&nbsp;Lv, Yuqin&nbsp;Lin, and Jianwu&nbsp;Dang.<br>
       Language-specific Characteristic Assistance for Code-switching Speech Recognition.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
-      In Proc. INTERSPEECH, pp., 2022.<br> (Corresponding author)
+      In Proc. INTERSPEECH, pp., 2022.<br> 
+      <font color=Blue>(Corresponding author)</font>
       </font>
     </li>
   </td>
@@ -39,7 +40,8 @@ Representative publications that I am a primary author on are
       <font size=2>
       Qiang&nbsp;Xu, Tongtong&nbsp;Song, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Yongjie&nbsp;Lv, Meng&nbsp;Ge, Qiang&nbsp;Yu, and Jianwu&nbsp;Dang.<br>
       Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
-      In Proc. INTERSPEECH, pp., 2022.<br> (Corresponding author)
+      In Proc. INTERSPEECH, pp., 2022.<br> 
+      <font color=Blue>(Corresponding author)</font>
       </font>
     </li>
   </td>
@@ -63,7 +65,8 @@ Representative publications that I am a primary author on are
       <font size=2>
       Luya&nbsp;Qiang, <u>Hao&nbsp;Shi</u>, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang.<br>
       Speech Dereverberation Based on Scale-aware Mean Square Error Loss.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/SaSD.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc of ICONIP, pp.55--63, 2021.<br> (Joint first author, equal ocntribution)
+      In Proc of ICONIP, pp.55--63, 2021.<br> 
+      <font color=Blue>(Joint first author, equal contribution)</font>
       </font>
     </li>
   </td>
@@ -75,7 +78,8 @@ Representative publications that I am a primary author on are
       <font size=2>
       Haoran&nbsp;Yin, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Luya&nbsp;Qiang, Sheng&nbsp;Li, Meng&nbsp;Ge, Gaoyan&nbsp;Zhang, and Jianwu&nbsp;Dang.<br>
       Simultaneous Progressive Filtering-based Monaural Speech Enhancement.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/iconip2021-yin.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc. ICONIP, pp.213--221, 2021.<br> (Joint first author, equal ocntribution)
+      In Proc. ICONIP, pp.213--221, 2021.<br>
+      <font color=Blue>(Joint first author, equal contribution)</font>
       </font>
     </li>
   </td>

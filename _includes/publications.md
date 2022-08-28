@@ -1,6 +1,6 @@
 
 ## <i class="fa fa-chevron-right"></i> Conference
-
+<li></li>
 
 <h5>First Author, Corresponding Author</h5>
 <table class="table table-hover">

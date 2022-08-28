@@ -1,7 +1,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Conference
 
-<font size=3><span style='background-color: #ffffd0'>The reviewed conference papers are shows as follows:</span></font>
+<font size=3><span style='background-color: #ffffd0'>The reviewed conference papers are shown as follows:</span></font>
 
 <h5>First Author, Corresponding Author</h5>
 <table class="table table-hover">

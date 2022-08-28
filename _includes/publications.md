@@ -1,7 +1,7 @@
 <details>
 <summary>## <i class="fa fa-chevron-right"></i> Publications</summary>
 
-
+<pre><code>
 <h4>First Author and Corresponding Author</h4>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
@@ -124,5 +124,5 @@
 </tr>
 
 </table>
-
+</code></pre>
 </details>

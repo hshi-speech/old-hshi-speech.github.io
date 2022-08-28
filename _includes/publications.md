@@ -2,7 +2,7 @@
 ## <i class="fa fa-chevron-right"></i> Conference
 
 
-<h5>First Author and Corresponding Author</h5>
+<h5>First Author, Corresponding Author</h5>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
   <td>

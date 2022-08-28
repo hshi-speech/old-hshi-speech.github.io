@@ -39,7 +39,7 @@ Representative publications that I am a primary author on are
     <li>
       <font size=2>
       Qiang&nbsp;Xu, Tongtong&nbsp;Song, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Yongjie&nbsp;Lv, Meng&nbsp;Ge, Qiang&nbsp;Yu, and Jianwu&nbsp;Dang.<br>
-      Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model.&nbsp;<em><a href='' target='_blank'>[ref]</a> </em><br>
+      Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Self_Distillation_Based_on_High_level_Information_Supervision_for_Compressing_End_to_End_ASR_Model.pdf' target='_blank'>[ref]</a> </em><br>
       In Proc. INTERSPEECH, pp., 2022.<br> 
       <font color=Blue>(Corresponding author)</font>
       </font>

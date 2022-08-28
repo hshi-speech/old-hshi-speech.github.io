@@ -1,6 +1,5 @@
 
-<span>
-## <i class="fa fa-chevron-right"></i> Publications</span>
+## <i class="fa fa-chevron-right"></i> Publications
 
 
 <h4>First Author and Corresponding Author</h4>

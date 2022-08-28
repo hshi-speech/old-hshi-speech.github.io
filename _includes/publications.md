@@ -2,7 +2,7 @@
 ## <i class="fa fa-chevron-right"></i> Conference
 <font size=3>The reviewed conference papers are shows as follows:<br></font>
 
-<font size=3>**First Author, Corresponding Author**</font>
+<h6>First Author, Corresponding Author</h6>
 <table class="table table-hover">
 <tr id="tr-shi22_interspeech">
   <td>

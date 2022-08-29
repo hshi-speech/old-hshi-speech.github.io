@@ -53,7 +53,7 @@
 #### <i class="fa fa-chevron-right"></i> Research Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'><li>Aug. 2021 - Present</li></td>
+  <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>
     <strong>Tianjin University</strong>,  <br>
     Speech signal processing

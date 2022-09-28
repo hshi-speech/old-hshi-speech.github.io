@@ -135,6 +135,19 @@
 
 <h5>Co-author</h5>
 <table class="table table-hover">
+  
+<tr id="tr-yang2022_iscslp" >
+  <td>
+    <li>
+      <font size=2>
+      Yanbing&nbsp;Yang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Meng&nbsp;Ge, Longbiao&nbsp;Wang, Qingzhi&nbsp;Hou and Jianwu&nbsp;Dang.<br>
+      Adaptive Attention Network with Domain Adversarial Training for Multi-Accent Speech Recognition.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/25_file_Paper.pdf' target='_blank'>[ref]</a> </em><br>
+      In Proc. ISCSLP, pp.--, 2022.<br>
+      </font>
+    </li>
+  </td>
+</tr>  
+  
 <tr id="tr-ge19_interspeech" >
   <td>
     <li>

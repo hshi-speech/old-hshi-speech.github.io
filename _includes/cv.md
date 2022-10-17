@@ -132,6 +132,6 @@ Very general
 
 
 #### <i class="fa fa-chevron-right"></i> Visited Areas
-I love to travel so much, so I recorded the areas I traveled and attended conferences. 
+I love traveling so much, so I recorded the areas I traveled and attended conferences. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lvQnC_MLw7w4fRvmKIQvQA4XoSv5ClY&ehbc=2E312F" width="640" height="480"></iframe>
 

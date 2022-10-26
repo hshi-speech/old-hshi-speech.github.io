@@ -48,7 +48,7 @@
       <font size=2>
       Tongtong&nbsp;Song, Qiang&nbsp;Xu, Meng&nbsp;Ge, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yongjie&nbsp;Lv, Yuqin&nbsp;Lin, and Jianwu&nbsp;Dang.<br>
       Language-specific Characteristic Assistance for Code-switching Speech Recognition.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/2206.14580.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc. INTERSPEECH, pp., 2022.<br> 
+      In Proc. INTERSPEECH, pp.1716--1720, 2022.<br> 
       <font color=Blue>(Corresponding author)</font>
       </font>
     </li>

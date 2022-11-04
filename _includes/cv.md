@@ -55,7 +55,7 @@
 <tr>
   <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>
-    <strong>Tianjin University</strong>,  <br>
+    <strong>Research Assistant at Tianjin University</strong>,  <br>
     Speech signal processing
   </td>
 </tr>

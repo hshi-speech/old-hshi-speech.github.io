@@ -101,13 +101,13 @@ Linux, vim git, tmux
 <tr>
   <td class='col-md-2'><li>Piano</li></td>
   <td>
-Sonata
+Sonata, impromptu chords
   </td>
 </tr>
 <tr>
   <td class='col-md-2'><li>Basketball</li></td>
   <td>
-Small Forward (SF)
+Small Forward (SF), Point Guard (PG)
   </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Rock
 <tr>
   <td class='col-md-2'><li>Singing</li></td>
   <td>
-Very general
+Chinese (mainly), English and Japanese songs
   </td>
 </tr>
 </table>

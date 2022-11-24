@@ -12,7 +12,7 @@
       <font size=2>
       <u>Hao&nbsp;Shi</u>, Yuchun&nbsp;Shu, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
       Fusing Multiple Bandwidth Spectrograms for Improving Speech Enhancement.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Fusing_Multiple_Bandwidth_Spectrograms_for_Improving_Speech_Enhancement.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc. APSIPA ASC, pp., 2022.<br> 
+      In Proc. APSIPA ASC, pp.1935--1940, 2022.<br> 
       </font>
     </li>
   </td>
@@ -24,7 +24,7 @@
       <font size=2>
       <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Sheng&nbsp;Li, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
       Subband-Based Spectrogram Fusion for Speech Enhancement by Combining Mapping and Masking Approaches.&nbsp;<em><a href='https://github.com/hshi-speech/resume/blob/main/pdf/Spectrogram_Fusion_for_Speech_Enhancement_by_Combining_Mapping_and_Masking_Approaches_with_Subband_based_Optimization.pdf' target='_blank'>[ref]</a> </em><br>
-      In Proc. APSIPA ASC, pp., 2022.<br> 
+      In Proc. APSIPA ASC, pp.286--292, 2022.<br> 
       </font>
     </li>
   </td>

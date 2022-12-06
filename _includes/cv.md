@@ -50,7 +50,7 @@
 </table>
 
 
-#### <i class="fa fa-chevron-right"></i> Research Experience
+#### <i class="fa fa-chevron-right"></i> Work Experiences
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>

@@ -24,7 +24,7 @@
       <strong>M.Phil. in Computer Science</strong>, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> *<a href="https://github.com/hshi-speech/resume/blob/main/pdf/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
+        <br> *<a href="data/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
         <br> Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
        </li>

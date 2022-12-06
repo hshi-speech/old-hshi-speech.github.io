@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Hao Shi
+title: Hao SHI
 ---
 
 ---

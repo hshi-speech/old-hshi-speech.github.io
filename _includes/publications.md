@@ -11,7 +11,7 @@
     <li>
       <font size=2>
       <u>Hao&nbsp;Shi</u>, Yuchun&nbsp;Shu, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
-      Fusing Multiple Bandwidth Spectrograms for Improving Speech Enhancement.&nbsp;<em><a href='publications/apsipa-2022-shi-resolutions.pdf' target='_blank'>[ref]</a> </em><br>
+      Fusing Multiple Bandwidth Spectrograms for Improving Speech Enhancement.&nbsp;<em><a href='publications/apsipa-2022-shi-resolutions.pdf' target='_blank'  style='text-decoration: none;'>[ref]</a> </em><br>
       In Proc. APSIPA ASC, pp.1935--1940, 2022.<br> 
       </font>
     </li>

@@ -142,7 +142,7 @@
       <font size=2>
       Adaptive Attention Network with Domain Adversarial Training for Multi-Accent Speech Recognition.&nbsp;<em><a href='publications/iscslp-2022-yang.pdf' target='_blank'>[PDF]</a> </em><br>
       Yanbing&nbsp;Yang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Meng&nbsp;Ge, Longbiao&nbsp;Wang, Qingzhi&nbsp;Hou and Jianwu&nbsp;Dang.<br>
-      In Proc. ISCSLP, pp.--, 2022.<br>
+      In Proc. ISCSLP, pp.6--10, 2022.<br>
       </font>
     </li>
   </td>

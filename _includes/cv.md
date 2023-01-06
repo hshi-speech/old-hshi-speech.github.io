@@ -6,7 +6,7 @@
   <tr>
     <td>
      <li>
-     <strong>Ph.D. in Computer Science</strong>, Kyoto University
+     <strong> (Candidate) Ph.D. in Informatics</strong>, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*

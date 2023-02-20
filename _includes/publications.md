@@ -10,6 +10,19 @@
   <td>
     <li>
       <font size=2>
+      Time-domain Speech Enhancement Assisted by Multi-resolution Frequency Encoder and Decoder.&nbsp;<em><a href='publications/icassp-2023-shi-tf.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
+      <u>Hao&nbsp;Shi</u>, Masato&nbsp;Mimura, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
+      In Proc. APSIPA ASC, pp.1935--1940, 2022.<br> 
+      </font>
+    </li>
+  </td>
+</tr>   
+  
+  
+<tr id="tr-shi_resolutions_apsipa" >
+  <td>
+    <li>
+      <font size=2>
       Fusing Multiple Bandwidth Spectrograms for Improving Speech Enhancement.&nbsp;<em><a href='publications/apsipa-2022-shi-resolutions.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Yuchun&nbsp;Shu, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
       In Proc. APSIPA ASC, pp.1935--1940, 2022.<br> 
@@ -18,7 +31,7 @@
   </td>
 </tr>  
   
-<tr id="tr-song22_interspeech" >
+<tr id="tr-shi_subband_apsipa" >
   <td>
     <li>
       <font size=2>

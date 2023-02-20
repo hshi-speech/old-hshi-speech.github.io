@@ -52,6 +52,15 @@
 
 #### <i class="fa fa-chevron-right"></i> Work Experiences
 <table class="table table-hover">
+ 
+<tr>
+  <td class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
+  <td>
+    <strong>Research Intern at Sony</strong>,  <br>
+    Speech signal processing
+  </td>
+</tr> 
+ 
 <tr>
   <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>

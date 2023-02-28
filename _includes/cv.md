@@ -86,7 +86,7 @@
 #### <i class="fa fa-chevron-right"></i> Reviewer
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'><li>Lead</li></td>
+  <td class='col-md-2'><li>Main</li></td>
   <td>
       ICASSP 2023
   </td>

@@ -94,10 +94,8 @@
 <tr>
   <td class='col-md-2'><li>Secondary Reviewer</li></td>
   <td>
-    Interspeech 2022 / ICASSP 2022  
-
-    Interspeech 2021 / ICASSP 2021 
-   
+    Interspeech 2022 / ICASSP 2022  <br>
+    Interspeech 2021 / ICASSP 2021  <br>
     APSIPA ASC 2020 / Interspeech 2020
   </td>
 </tr>

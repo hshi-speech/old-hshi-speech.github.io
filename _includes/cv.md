@@ -86,13 +86,13 @@
 #### <i class="fa fa-chevron-right"></i> Reviewer
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'><li>Lead Reviewer</li></td>
+  <td class='col-md-2'><li>Lead</li></td>
   <td>
       ICASSP 2023
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'><li>Secondary Reviewer</li></td>
+  <td class='col-md-2'><li>Secondary</li></td>
   <td>
     Interspeech 2022 / ICASSP 2022  <br>
     Interspeech 2021 / ICASSP 2021  <br>

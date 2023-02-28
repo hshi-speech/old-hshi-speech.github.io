@@ -88,10 +88,9 @@
 <tr>
   <td class='col-md-2'><li>Lead Reviewer</li></td>
   <td>
-ICASSP 2023
+      ICASSP 2023
   </td>
 </tr>
-<tr>
 <tr>
   <td class='col-md-2'><li>Secondary Reviewer</li></td>
   <td>
@@ -102,7 +101,6 @@ ICASSP 2023
     APSIPA ASC 2020 / Interspeech 2020
   </td>
 </tr>
-<tr>
 </table>
  
  

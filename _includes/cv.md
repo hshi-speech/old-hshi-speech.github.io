@@ -130,6 +130,12 @@ Linux, vim git, tmux
 #### <i class="fa fa-chevron-right"></i> Hobbies
 <table class="table table-hover">
 <tr>
+  <td class='col-md-2'><li>Photography</li></td>
+  <td>
+Beginner, some samples
+  </td>
+</tr>
+<tr>
   <td class='col-md-2'><li>Piano</li></td>
   <td>
 Sonata, impromptu chords
@@ -142,6 +148,12 @@ Small Forward (SF), Point Guard (PG)
   </td>
 </tr>
 <tr>
+  <td class='col-md-2'><li>Ski</li></td>
+  <td>
+Snowboard
+  </td>
+</tr>
+<tr>
   <td class='col-md-2'><li>Swimming</li></td>
   <td>
 Breaststroke
@@ -150,7 +162,7 @@ Breaststroke
 <tr>
   <td class='col-md-2'><li>Music</li></td>
   <td>
-Rock
+Rock (Band: New Pants, Won Fu) / Folk (The Landlord's Cat)
   </td>
 </tr>
 <tr>

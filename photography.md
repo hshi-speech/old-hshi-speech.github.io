@@ -5,7 +5,7 @@ title: Hao Shi
 
 ---
 
-{% include photography.md %}
+{% include photography.html %}
 
 <!--
 ## <i class="fa fa-chevron-right"></i> Recent Blog Posts

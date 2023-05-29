@@ -1,71 +1,100 @@
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>炫酷照片墙</title>
-    <style>
-      :root,
-      body {
-        height: 100%;
-        overflow: hidden;
-      }
-      body {
-        perspective: 1000px;
-        transform-style: preserve-3d;
-      }
-      .wrap {
-        width: 300px;
-        height: 400px;
-        /* border: 1px solid red; */
-        transform-style: preserve-3d;
-        left: 50%;
-        top: 50%;
-        position: absolute;
-        transform: translate(-50%, -50%);
-        animation: rotatemove 20s ease-in-out infinite;
-      }
-      .wrap img {
-        width: 200px;
-        position: absolute;
-        /* backface-visibility: hidden; */
-        /* animation: rotatemove 10s linear; */
-      }
-      img:nth-of-type(1) {
-        transform: rotateY(45deg) translateZ(300px);
-      }
-      img:nth-of-type(2) {
-        transform: rotateY(90deg) translateZ(400px);
-      }
-      img:nth-of-type(3) {
-        transform: rotateY(135deg) translateZ(480px);
-      }
-      img:nth-of-type(4) {
-        transform: rotateY(180deg) translateZ(360px);
-      }
-      img:nth-of-type(5) {
-        transform: rotateY(225deg) translateZ(380px);
-      }
-      img:nth-of-type(6) {
-        transform: rotateY(266deg) translateZ(300px);
-      }
-      img:nth-of-type(7) {
-        transform: rotateY(315deg) translateZ(300px);
-      }
-      img:nth-of-type(8) {
-        transform: rotateY(360deg) translateZ(300px);
-      }
-      @keyframes rotatemove {
-        0% {
-          transform: translate(-50%, -50%) rotateY(0deg);
-        }
-        100% {
-          transform: translate(-50%, -50%) rotateY(360deg);
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="wrap">
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style type="text/css">
+			#imgwrap{width: 880px;height: 440px;margin: 50px auto;perspective: 880px;}
+			#imgwrap img{width:88px;height:88px;float: left;}
+			#btn{width: 100px;text-align: center;font: 16px/40px "微软雅黑";color: white;padding: 0 20px;
+			margin:0 auto;border-radius:5px;background: rgb(0,100,0);box-shadow: 2px 2px 5px rgba(0,0,0,0.5);cursor: pointer;}
+			/*box-shadow(阴影): 2px(x) 2px(y) 5px(大小) rgba(0,0,0,0.5);*/
+		</style>
+		<script type="text/javascript">
+			/*
+			 * 运动的步骤
+			 * 1：闪的效果（瞬间宽高都变为0，css3属性scal：缩小，随机）
+			 * 2：图片从小变到大，同时透明度从1变到0（必须是上一步效果走完了他才会走）
+			 * 3：图片旋转，同时透明度从0变到1 有层次感（位移translate）（当所有图片的透明度变为0的时候，才会走这一步）
+			 */
+			window.onload=function(){
+				var btn=document.getElementById('btn');
+				var imgs=document.querySelectorAll('img');
+				var on=true;		//这个变量决定用户是否可以再次点击(true代表可以点，false代表不可以点)
+//				给btn添加点击事件
+				btn.onclick=function(){
+					if(!on){
+						return;
+					}
+					on=false;
+					var endNum=0;		//运动完成的图片数量
+					var allEnd=0;		//用来判断所有的图片是否都运动完了
+					for(var i=0;i<imgs.length;i++){
+						(function(i){
+							setTimeout(function(){
+								montion(imgs[i],'10ms',function(){
+									this.style.transform="scale(0)";	//缩放到0
+								},function(){
+									//第二个运动要在这里写
+									montion(this,'1s',function(){
+										this.style.transform="scale(1)";
+										this.style.opacity=0;
+									},function(){
+										endNum++;	//只要有一张图走完了，就让他加个1
+										if(endNum==imgs.length){
+											toBig();
+										}
+									});
+								});
+							},Math.random()*1000);				//500毫秒
+						})(i)
+					}
+					function toBig(){
+//						这个函数用来做第三个效果
+						/*
+						 * 坐标轴
+						 * x轴（平行地面）
+						 * y轴（垂直地面）
+						 * x轴（垂直屏幕）
+						 */
+						for(var i=0;i<imgs.length;i++){
+							imgs[i].style.transition="";	
+							//想要一个物体有css3中的一些变化，那就需要给他一个初始值
+							imgs[i].style.transform='rotateY(0deg)translateZ(-'+Math.random()*500+'px)';
+							//用这种方式去写是因为想要在循环里找i的值
+							(function(i){
+								setTimeout(function(){
+									montion(imgs[i],'2s',function(){
+										this.style.opacity=1;
+										this.style.transform='rotateY(-360deg) translateZ(0)';
+									},function(){
+										allEnd++;
+										if(allEnd==imgs.length){
+											//这个条件成立，说明所有图片都运动完了，可以让用户再次点击了
+											on=true;		//当所有运动完了以后才可以点
+										}
+									});
+								},Math.random()*1000);
+							})(i);
+						}
+					};
+				};
+//						运动函数(运动的对象/运动的时间/运动的属性函数/运动完成后要做的事情)
+						function montion(obj,time,doFn,callBack){
+							obj.style.transition=time;
+							doFn.call(obj);		//调用函数,并把this的指向给obj
+							var called=false;	//解决transitionend调用多次的bug
+							obj.addEventListener('transitionend',function(){
+								if(!called){	
+									callBack&&callBack.call(obj);
+									called=true;
+								}
+							},false);
+						}
+			};
+		</script>
+	</head>
+	<body>
+		<div id="imgwrap">
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC00033.JPG" alt=""/>
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC00305.jpeg" alt=""/>
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC00332.jpg" alt=""/>
@@ -78,12 +107,9 @@
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC01910-2.jpeg" alt=""/>
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC01955.jpg" alt=""/>
             <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/photo_samples/DSC04090.jpg" alt=""/>
-    </div>
-
-    <script>
-      document.body.onmousemove = function(e) {
-        this.style.perspectiveOrigin = "" + e.pageX + "px " + e.pageY + "px";
-      };
-    </script>
-  </body>
+		</div>
+		<div id="btn">
+			点击查看效果
+		</div>
+	</body>
 </html>

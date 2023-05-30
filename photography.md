@@ -5,7 +5,7 @@ title: Hao Shi
 
 
 
-{% include photography.html %}
+{% include photography.md %}
 
 
 

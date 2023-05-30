@@ -132,7 +132,7 @@ Linux, vim git, tmux
 <tr>
   <td class='col-md-2'><li>Photography</li></td>
   <td>
-Beginner, <a href='https://photos.app.goo.gl/g5KD1smFNUM2Zpej8'>some samples</a>
+Beginner, <a href='https://photos.google.com/share/AF1QipN_CclRNxpDIzwmw42gQstv4OKbid3q29VY9e8XBYhysxeSlJay8CFYzMMWWQzYDA?key=WkdYdm5DM1ljS1RlYzN5RlRrcndtQndUaG1PU2pB'>some samples</a>
   </td>
 </tr>
 <tr>

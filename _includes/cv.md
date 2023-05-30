@@ -88,7 +88,7 @@
 <tr>
   <td class='col-md-2'><li>Main</li></td>
   <td>
-      ICASSP 2023
+      ICASSP 2023 / WASPAA 2023
   </td>
 </tr>
 <tr>

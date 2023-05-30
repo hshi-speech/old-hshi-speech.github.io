@@ -132,7 +132,7 @@ Linux, vim git, tmux
 <tr>
   <td class='col-md-2'><li>Photography</li></td>
   <td>
-Beginner, <a href='https://photos.app.goo.gl/3PswCpSyqWrrsH8Q6'>some samples</a>
+Beginner, <a href='https://photos.app.goo.gl/EzrhaoGQkEcTNHeF7'>some samples</a>
   </td>
 </tr>
 <tr>
@@ -151,12 +151,6 @@ Small Forward (SF), Point Guard (PG)
   <td class='col-md-2'><li>Ski</li></td>
   <td>
 Snowboard
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'><li>Swimming</li></td>
-  <td>
-Breaststroke
   </td>
 </tr>
 <tr>

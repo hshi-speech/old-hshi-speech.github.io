@@ -174,6 +174,6 @@ I love traveling so much, so I recorded the areas I traveled.
 
 
 #### <i class="fa fa-chevron-right"></i> Hello World
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mWphCyX22pe_P6KJ9gE87HPH3R3G0Mw9GPb6-s3jzU4&cl=ffffff&w=a" width="160" height="120"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=mWphCyX22pe_P6KJ9gE87HPH3R3G0Mw9GPb6-s3jzU4'></script>
 
 

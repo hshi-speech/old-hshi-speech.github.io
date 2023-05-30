@@ -132,7 +132,7 @@ Linux, vim git, tmux
 <tr>
   <td class='col-md-2'><li>Photography</li></td>
   <td>
-Beginner, <a href='https://hshi-speech.github.io/photography/'>some samples</a>
+Beginner, <a href='https://photos.app.goo.gl/3PswCpSyqWrrsH8Q6'>some samples</a>
   </td>
 </tr>
 <tr>

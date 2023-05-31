@@ -156,7 +156,7 @@ Snowboard
 <tr>
   <td class='col-md-2'><li>Music</li></td>
   <td>
-Rock (Band: New Pants, Won Fu) / Folk (The Landlord's Cat)
+Nakajima Miyuki (中島みゆき) / Rock (Band: New Pants, Won Fu) / Folk (The Landlord's Cat)
   </td>
 </tr>
 <tr>

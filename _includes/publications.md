@@ -12,7 +12,7 @@
       <font size=2>
       Time-domain Speech Enhancement Assisted by Multi-resolution Frequency Encoder and Decoder.&nbsp;<em><a href='publications/icassp-2023-shi-tf.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Masato&nbsp;Mimura, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
-      In Proc. ICASSP, pp.xxxx--xxxx, 2023.<br> 
+      In Proc. ICASSP, pp.1--5, 2023.<br> 
       </font>
     </li>
   </td>

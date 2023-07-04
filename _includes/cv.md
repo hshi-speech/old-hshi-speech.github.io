@@ -66,7 +66,8 @@
   <td class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
   <td>
     <strong>Research Intern at Sony</strong>,  <br>
-    Speech signal processing
+    Speech signal processing,  <br>
+    Mentor: Kazuki Shimada, Shusuke Takahashi
   </td>
 </tr> 
  

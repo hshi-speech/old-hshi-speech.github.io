@@ -57,7 +57,8 @@
   <td class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
   <td>
     <strong>Research Intern at NTT</strong>,  <br>
-    Speech signal processing
+    Speech signal processing, <br>
+    Mentor: Shoko Araki, Tomohiro Nakatani
   </td>
 </tr> 
 

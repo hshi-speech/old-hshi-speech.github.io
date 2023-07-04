@@ -52,6 +52,15 @@
 
 #### <i class="fa fa-chevron-right"></i> Work Experiences
 <table class="table table-hover">
+
+<tr>
+  <td class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
+  <td>
+    <strong>Research Intern at NTT</strong>,  <br>
+    Speech signal processing
+  </td>
+</tr> 
+
  
 <tr>
   <td class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>

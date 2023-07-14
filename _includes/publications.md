@@ -148,6 +148,18 @@
 
 <h5>Co-author</h5>
 <table class="table table-hover">
+
+<tr id="tr-zhong2023_waspaa" >
+  <td>
+    <li>
+      <font size=2>
+      Extending Audio Masked Autoencoders Toward Audio Restoration.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
+      Zhi&nbsp;Zhong, <u>Hao&nbsp;Shi</u>, Masato&nbsp;Hirano, Kazuki&nbsp;Shimada, Kazuya&nbsp;Tateishi, Takashi&nbsp;Shibuya, Shusuke&nbsp;Takahashi, Yuki&nbsp;Mitsufuji.<br>
+      In Proc. WASPAA, pp.xx--xx, 2023.<br>
+      </font>
+    </li>
+  </td>
+</tr> 
   
 <tr id="tr-yang2022_iscslp" >
   <td>

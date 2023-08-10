@@ -82,6 +82,7 @@
 </table>
 
 
+<!--
 #### <i class="fa fa-chevron-right"></i> Academic Events
 <table class="table table-hover">
 <tr>
@@ -91,9 +92,9 @@
   </td>
 </tr>
 </table>
+-->
 
-
-
+<!--
 #### <i class="fa fa-chevron-right"></i> Reviewer
 <table class="table table-hover">
 <tr>
@@ -111,6 +112,7 @@
   </td>
 </tr>
 </table>
+-->
  
  
 <!--

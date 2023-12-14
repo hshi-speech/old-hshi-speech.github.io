@@ -1,8 +1,8 @@
 
 
-<font size=3><span style='background-color: #ffffd0'>The reviewed conference papers are shown as follows:</span></font>
+<font size=3><span style='background-color: #ffffd0'>The reviewed papers are shown as follows:</span></font>
 
-##### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
+###### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
 <table class="table table-hover">
 <tr id="tr-shi2024_icassp" >

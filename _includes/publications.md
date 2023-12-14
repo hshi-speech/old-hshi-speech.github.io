@@ -1,6 +1,5 @@
 
 
-<font size=3><span style='background-color: #ffffd0'>The reviewed papers are shown as follows:</span></font>
 
 ###### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
@@ -20,7 +19,7 @@
   <td>
     <li>
       <font size=2>
-      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
+      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='publications/icassp-2024-gao-tf.pdf' target='_blank'>[PDF]</a> </em><br>
       Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>,  Chenhui&nbsp;Chu, Tatsuya&nbsp;Kawahara<br>
       In Proc. ICASSP, pp.xx--xx, 2024.<br>
       </font>

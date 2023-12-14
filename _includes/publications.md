@@ -1,9 +1,8 @@
 
-## <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
 <font size=3><span style='background-color: #ffffd0'>The reviewed conference papers are shown as follows:</span></font>
 
-<h5>First Author, Corresponding Author</h5>
+##### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
 <table class="table table-hover">
 <tr id="tr-shi2024_icassp" >
@@ -17,8 +16,30 @@
     </li>
   </td>
 </tr>  
-
-<tr id="tr-song22_interspeech" >
+<tr id="tr-gao2024_icassp" >
+  <td>
+    <li>
+      <font size=2>
+      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
+      Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>,  Chenhui&nbsp;Chu, Tatsuya&nbsp;Kawahara<br>
+      In Proc. ICASSP, pp.xx--xx, 2024.<br>
+      </font>
+    </li>
+  </td>
+</tr> 
+  
+<tr id="tr-zhong2023_waspaa" >
+  <td>
+    <li>
+      <font size=2>
+      Extending Audio Masked Autoencoders Toward Audio Restoration.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
+      Zhi&nbsp;Zhong, <u>Hao&nbsp;Shi</u>, Masato&nbsp;Hirano, Kazuki&nbsp;Shimada, Kazuya&nbsp;Tateishi, Takashi&nbsp;Shibuya, Shusuke&nbsp;Takahashi, Yuki&nbsp;Mitsufuji.<br>
+      In Proc. WASPAA, pp.xx--xx, 2023.<br>
+      </font>
+    </li>
+  </td>
+</tr> 
+<tr id="tr-shi_icassp2023" >
   <td>
     <li>
       <font size=2>
@@ -28,8 +49,8 @@
       </font>
     </li>
   </td>
-</tr>   
-  
+</tr>  
+
   
 <tr id="tr-shi_resolutions_apsipa" >
   <td>
@@ -92,7 +113,18 @@
     </li>
   </td>
 </tr>    
-    
+<tr id="tr-yang2022_iscslp" >
+  <td>
+    <li>
+      <font size=2>
+      Adaptive Attention Network with Domain Adversarial Training for Multi-Accent Speech Recognition.&nbsp;<em><a href='publications/iscslp-2022-yang.pdf' target='_blank'>[PDF]</a> </em><br>
+      Yanbing&nbsp;Yang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Meng&nbsp;Ge, Longbiao&nbsp;Wang, Qingzhi&nbsp;Hou and Jianwu&nbsp;Dang.<br>
+      In Proc. ISCSLP, pp.6--10, 2022.<br>
+      </font>
+    </li>
+  </td>
+</tr>  
+
 <tr id="tr-shi21_apsipa">
   <td>
     <li>
@@ -154,51 +186,7 @@
     </li>
   </td>
 </tr>
-</table>
 
-
-
-<h5>Co-author</h5>
-<table class="table table-hover">
-
-<tr id="tr-gao2024_icassp" >
-  <td>
-    <li>
-      <font size=2>
-      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
-      Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>,  Chenhui&nbsp;Chu, Tatsuya&nbsp;Kawahara<br>
-      In Proc. ICASSP, pp.xx--xx, 2024.<br>
-      </font>
-    </li>
-  </td>
-</tr> 
-
-
-
-<tr id="tr-zhong2023_waspaa" >
-  <td>
-    <li>
-      <font size=2>
-      Extending Audio Masked Autoencoders Toward Audio Restoration.&nbsp;<em><a href='https://arxiv.org/pdf/2305.06701.pdf' target='_blank'>[PDF]</a> </em><br>
-      Zhi&nbsp;Zhong, <u>Hao&nbsp;Shi</u>, Masato&nbsp;Hirano, Kazuki&nbsp;Shimada, Kazuya&nbsp;Tateishi, Takashi&nbsp;Shibuya, Shusuke&nbsp;Takahashi, Yuki&nbsp;Mitsufuji.<br>
-      In Proc. WASPAA, pp.xx--xx, 2023.<br>
-      </font>
-    </li>
-  </td>
-</tr> 
-  
-<tr id="tr-yang2022_iscslp" >
-  <td>
-    <li>
-      <font size=2>
-      Adaptive Attention Network with Domain Adversarial Training for Multi-Accent Speech Recognition.&nbsp;<em><a href='publications/iscslp-2022-yang.pdf' target='_blank'>[PDF]</a> </em><br>
-      Yanbing&nbsp;Yang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Meng&nbsp;Ge, Longbiao&nbsp;Wang, Qingzhi&nbsp;Hou and Jianwu&nbsp;Dang.<br>
-      In Proc. ISCSLP, pp.6--10, 2022.<br>
-      </font>
-    </li>
-  </td>
-</tr>  
-  
 <tr id="tr-ge19_interspeech" >
   <td>
     <li>
@@ -212,4 +200,6 @@
 </tr>
 
 </table>
+
+
 

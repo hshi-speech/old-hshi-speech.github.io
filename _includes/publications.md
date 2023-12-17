@@ -8,7 +8,7 @@
   <td>
     <li>
       <font size=2>
-      Diffusion-Based Speech Enhancement with Joint Generative and Predictive Decoders.&nbsp;<em><a href='publications/icassp-2024-shi-tf.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
+      Diffusion-Based Speech Enhancement with Joint Generative and Predictive Decoders.&nbsp;<em><a href='publications/icassp-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Kazuki&nbsp;Shimada, Masato&nbsp;Hirano, Takashi&nbsp;Shibuya, Yuichiro&nbsp;Koyama, Zhi&nbsp;Zhong, Shusuke&nbsp;Takahashi, Tatsuya&nbsp;Kawahara, and Yuki&nbsp;Mitsufuji.<br>
       In Proc. ICASSP, pp.xx--xx, 2024.<br> 
       </font>
@@ -19,7 +19,7 @@
   <td>
     <li>
       <font size=2>
-      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='publications/icassp-2024-gao-tf.pdf' target='_blank'>[PDF]</a> </em><br>
+      Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;<em><a href='publications/icassp-2024-gao.pdf' target='_blank'>[PDF]</a> </em><br>
       Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>,  Chenhui&nbsp;Chu, Tatsuya&nbsp;Kawahara<br>
       In Proc. ICASSP, pp.xx--xx, 2024.<br>
       </font>

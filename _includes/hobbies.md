@@ -7,7 +7,7 @@
   <td class='col-md-2'><li>Traveling</li></td>
   <td>
     <details> 
-      <summary><span style="color: #5481E5; cursor: pointer;">The areas I traveled (travelling maps)</span></summary>
+      <summary><span style="color: #5481E5; cursor: pointer;">The areas I traveled (travelling map)</span></summary>
         <div style="margin-top:40px;"></div>
         <iframe src="https://www.google.com/maps/d/embed?mid=1lvQnC_MLw7w4fRvmKIQvQA4XoSv5ClY&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
         <div style="margin-top:40px;"></div>
@@ -17,10 +17,10 @@
 
 
 <tr>
-  <td class='col-md-2'><li>Traveling</li></td>
+  <td class='col-md-2'><li>Gacha</li></td>
   <td>
     <details> 
-      <summary><span style="color: #5481E5; cursor: pointer;">Gacha (some pictures)</span></summary>
+      <summary><span style="color: #5481E5; cursor: pointer;">Some collections</span></summary>
         <div style="margin-top:40px;"></div>
         Nothing now, will be updated a few days later
         <div style="margin-top:40px;"></div>
@@ -33,7 +33,7 @@
   <td class='col-md-2'><li>Pets</li></td>
   <td>
     <details> 
-      <summary><span style="color: #5481E5; cursor: pointer;">A cat's daddy: Baobao (some pictures)</span></summary>
+      <summary><span style="color: #5481E5; cursor: pointer;">A cat's daddy: Baobao (living in China)</span></summary>
         <div style="margin-top:40px;"></div>
         Nothing now, will be updated a few days later
         <div style="margin-top:40px;"></div>

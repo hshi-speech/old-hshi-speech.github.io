@@ -4,7 +4,7 @@
   <tr>
     <td>
      <li>
-     <strong> (Candidate) Ph.D. in Informatics</strong>, Kyoto University
+     (Candidate) Ph.D. in Informatics, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *Robust Automatic Speech Recognition*
@@ -19,7 +19,7 @@
     <td>
       <font size=3>
       <li>
-      <strong>M.Phil. in Computer Science</strong>, Tianjin University
+      M.Phil. in Computer Science, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> *<a href="data/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
@@ -34,7 +34,7 @@
     <td>
       <font size=3>
       <li>
-      <strong>B.Sc. in Computer Science</strong>, Southwest Jiaotong University
+      B.Sc. in Computer Science, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Advisors: -
@@ -54,7 +54,7 @@
 <tr>
   <td class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
   <td>
-    <strong>Research Intern at NTT</strong>,  <br>
+    Research Intern at NTT,  <br>
     Speech signal processing, <br>
     Mentor: Naoyuki Kamo, Shoko Araki, Tomohiro Nakatani
   </td>
@@ -64,7 +64,7 @@
 <tr>
   <td class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
   <td>
-    <strong>Research Intern at Sony</strong>,  <br>
+    Research Intern at Sony,  <br>
     Speech signal processing,  <br>
     Mentor: Kazuki Shimada, Shusuke Takahashi
   </td>
@@ -73,7 +73,7 @@
 <tr>
   <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>
-    <strong>Research Assistant at Tianjin University</strong>,  <br>
+    Research Assistant at Tianjin University,  <br>
     Speech signal processing
   </td>
 </tr>

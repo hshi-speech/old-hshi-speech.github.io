@@ -46,7 +46,7 @@
   <td class='col-md-2'><li>O-mikuji</li></td>
   <td>
     <details> 
-      <summary><span style="color: #5481E5; cursor: pointer;">(Fortune, 御神籤) The latest news</span></summary>
+      <summary><span style="color: #5481E5; cursor: pointer;">(御神籤, Fortune) The latest news</span></summary>
         <div style="margin-top:40px;"></div>
         Nothing now, will be updated a few days later
         <div style="margin-top:40px;"></div>

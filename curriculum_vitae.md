@@ -3,7 +3,6 @@ layout: indexpub
 title: Hao Shi
 ---
 
----
 
 {% include curriculum_vitae.md %}
 

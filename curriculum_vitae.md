@@ -3,6 +3,8 @@ layout: indexpub
 title: Hao Shi
 ---
 
+<div style="margin-top:20px;"></div>
+
 
 {% include curriculum_vitae.md %}
 

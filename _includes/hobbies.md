@@ -1,3 +1,11 @@
+<style>
+.hover-underline:hover {
+    text-decoration: underline;
+}
+</style>
+
+
+
 <table class="table table-hover">
 
 
@@ -5,7 +13,7 @@
   <td class='col-md-2'><li>Traveling</li></td>
   <td>
     <details> 
-      <summary><span style="color: #5481E5; cursor: pointer;">The areas I traveled (please click here)</span></summary>
+      <summary><span class="hover-underline"; style="color: #5481E5; cursor: pointer;">The areas I traveled (please click here)</span></summary>
         <div style="margin-top:40px;"></div>
         <iframe src="https://www.google.com/maps/d/embed?mid=1lvQnC_MLw7w4fRvmKIQvQA4XoSv5ClY&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
         <div style="margin-top:40px;"></div>

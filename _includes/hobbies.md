@@ -17,6 +17,32 @@
 
 
 <tr>
+  <td class='col-md-2'><li>Traveling</li></td>
+  <td>
+    <details> 
+      <summary><span style="color: #5481E5; cursor: pointer;">Gacha (please click here)</span></summary>
+        <div style="margin-top:40px;"></div>
+        Nothing now, will be updated a few days later
+        <div style="margin-top:40px;"></div>
+    </details>  
+  </td>
+</tr>
+
+
+<tr>
+  <td class='col-md-2'><li>Pets</li></td>
+  <td>
+    <details> 
+      <summary><span style="color: #5481E5; cursor: pointer;">A cat's daddy: Baobao (some pictures)</span></summary>
+        <div style="margin-top:40px;"></div>
+        Nothing now, will be updated a few days later
+        <div style="margin-top:40px;"></div>
+    </details>  
+  </td>
+</tr>
+
+
+<tr>
   <td class='col-md-2'><li>Photography</li></td>
   <td>
     Beginner, <a href='https://photos.google.com/share/AF1QipN_CclRNxpDIzwmw42gQstv4OKbid3q29VY9e8XBYhysxeSlJay8CFYzMMWWQzYDA?key=WkdYdm5DM1ljS1RlYzN5RlRrcndtQndUaG1PU2pB'>some samples</a>

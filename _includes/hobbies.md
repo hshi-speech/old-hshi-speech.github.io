@@ -1,7 +1,3 @@
-
-
-
-#### <i class="fa fa-chevron-right"></i> Hobbies
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'><li>Photography</li></td>
@@ -39,14 +35,13 @@ Nakajima Miyuki (中島みゆき) / Rock (Band: New Pants, Won Fu) / Folk (The L
 Chinese (mainly), English and Japanese songs
   </td>
 </tr>
-</table>
 
-
-#### <i class="fa fa-chevron-right"></i> Visited Areas
+<tr>
+  <td class='col-md-2'><li>Traveling</li></td>
+  <td>
 I love traveling so much, so I recorded the areas I traveled. 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lvQnC_MLw7w4fRvmKIQvQA4XoSv5ClY&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+  </td>
+</tr>
+</table>
 
-
-<div style="display:none;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=mWphCyX22pe_P6KJ9gE87HPH3R3G0Mw9GPb6-s3jzU4'></script>
-</div>

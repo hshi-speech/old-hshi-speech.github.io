@@ -1,4 +1,4 @@
-#### <i class="fa fa-chevron-right"></i> Education
+##### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
   <font size=2>
   <tr>
@@ -48,7 +48,7 @@
 </table>
 
 
-#### <i class="fa fa-chevron-right"></i> Work Experiences
+##### <i class="fa fa-chevron-right"></i> Work Experiences
 <table class="table table-hover">
 
 <tr>

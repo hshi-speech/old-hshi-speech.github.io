@@ -47,6 +47,8 @@
   </tr>
 </table>
 
+<div style="margin-top:20px;"></div>
+
 
 ##### <i class="fa fa-chevron-right"></i> Work Experiences
 <table class="table table-hover">

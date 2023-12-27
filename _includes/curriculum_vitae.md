@@ -37,8 +37,7 @@
       B.Sc. in Computer Science, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> &nbsp;&nbsp;&nbsp; Advisors: -
-         <!-- <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di</a> -->
+        <br> &nbsp;&nbsp;&nbsp; Advisors: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di </a>
         </p>
       </li>
       </font>

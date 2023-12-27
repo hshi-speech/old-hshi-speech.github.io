@@ -7,8 +7,8 @@
      (Candidate) Ph.D. in Informatics, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> &nbsp;&nbsp;&nbsp; *Robust Automatic Speech Recognition*
-        <br> &nbsp;&nbsp;&nbsp; Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp; *Robust Automatic Speech Recognition*
+        <br> &nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
         </p>
       </li>
     </td>
@@ -22,8 +22,8 @@
       M.Phil. in Computer Science, Tianjin University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> &nbsp;&nbsp;&nbsp; *<a href="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/data/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
-        <br> &nbsp;&nbsp;&nbsp; Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp; *<a href="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/data/master_thesis.pdf" target="_blank">Thesis: Spectrograms Fusion-based Speech Enhancement</a>*
+        <br> &nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
        </li>
        </font>
@@ -37,7 +37,7 @@
       B.Sc. in Computer Science, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> &nbsp;&nbsp;&nbsp; Advisors: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di </a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di </a>
         </p>
       </li>
       </font>

@@ -5,7 +5,7 @@ title: Hao Shi
 
 ---
 
-{% include publications.md %}
+{% include hobbies.md %}
 
 <!--
 ## <i class="fa fa-chevron-right"></i> Recent Blog Posts

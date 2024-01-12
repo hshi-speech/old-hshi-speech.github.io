@@ -57,7 +57,7 @@
   <td>
     Research Intern at NTT,  <br>
     Speech signal processing, <br>
-    Mentor: Naoyuki Kamo, Shoko Araki, Tomohiro Nakatani
+    Mentor: Naoyuki Kamo, Shoko Araki, Tomohiro Nakatani, Marc Delcroix
   </td>
 </tr> 
 

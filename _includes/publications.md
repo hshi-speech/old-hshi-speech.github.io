@@ -190,7 +190,7 @@
   <td>
     <li>
       <font size=2>
-      Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement.&nbsp;<em><a href='publications/interspeech-2019-ge.pdf' target='_blank'>[PDF]</a> </em><br>
+      Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement.&nbsp;<em><a href='publications/interspeech-2019-ge.pdf' target='_blank'>[PDF]</a> </em><em><a href='bib/interspeech-2019-ge.bib' target='_blank'>[.bib]</a> </em><br>
       Meng&nbsp;Ge, Longbiao&nbsp;Wang, Nan&nbsp;Li, <u>Hao&nbsp;Shi</u>, Jianwu&nbsp;Dang, and Xiangang&nbsp;Li.<br>
       In Proc. INTERSPEECH, pp.3151--3157, 2019.<br>
       </font>

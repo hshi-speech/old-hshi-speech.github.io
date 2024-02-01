@@ -62,6 +62,10 @@ img {
     border: none;
 }
 
+.clustrmaps-globe {
+    display: none !important;
+}
+
 @media (max-width: 767px) {
     .idxHdr {
         width: 100%;

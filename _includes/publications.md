@@ -4,6 +4,17 @@
 ###### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
 <table class="table table-hover">
+<tr id="tr-shi2024_hscma" >
+  <td>
+    <li>
+      <font size=2>
+      Ensemble Inference for Diffusion Model-based Speech Enhancement.&nbsp;<em><a href='publications/hscma-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em><br>
+      <u>Hao&nbsp;Shi</u>, Naoyuki&nbsp;Kamo, Marc&nbsp;Delcroix, Tomohiro&nbsp;Nakatani, and Shoko&nbsp;Araki.<br>
+      In Proc. HSCMA, pp.xx--xx, 2024.<br> 
+      </font>
+    </li>
+  </td>
+</tr> 
 <tr id="tr-shi2024_icassp" >
   <td>
     <li>

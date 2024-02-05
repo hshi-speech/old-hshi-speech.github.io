@@ -22,7 +22,8 @@
     <details> 
       <summary><span style="color: #5481E5; cursor: pointer;">Some collections</span></summary>
         <div style="margin-top:40px;"></div>
-        Nothing now, will be updated a few days later
+        <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/hobbies/gacha_nightlight.jpeg" alt="Night Light" width="300" />
+        <img src="https://github.com/hshi-speech/hshi-speech.github.io/blob/main/hobbies/gocha_onepiece.jpeg" alt="OnePiece" width="300" />
         <div style="margin-top:40px;"></div>
     </details>  
   </td>

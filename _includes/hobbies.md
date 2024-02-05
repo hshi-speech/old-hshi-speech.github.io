@@ -36,7 +36,8 @@
     <details> 
       <summary><span style="color: #5481E5; cursor: pointer;">A cat's daddy: Baobao (living in China)</span></summary>
         <div style="margin-top:40px;"></div>
-        Nothing now, will be updated a few days later
+        <img src="https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/hobbies/pets/baobao1.jpeg" alt="Night Light" width="300" />
+        <img src="https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/hobbies/pets/baobao2.jpeg" alt="Night Light" width="300" />
         <div style="margin-top:40px;"></div>
     </details>  
   </td>

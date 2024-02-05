@@ -22,8 +22,7 @@
     <details> 
       <summary><span style="color: #5481E5; cursor: pointer;">Some collections</span></summary>
         <div style="margin-top:40px;"></div>
-        <img src="https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/hobbies/gacha/gacha_nightlight.jpeg
-" alt="Night Light" width="300" />
+        <img src="https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/hobbies/gacha/gacha_nightlight.jpeg" alt="Night Light" width="300" />
         <img src="https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/hobbies/gacha/gacha_onepiece.jpeg" alt="OnePiece" width="300" />
         <div style="margin-top:40px;"></div>
     </details>  

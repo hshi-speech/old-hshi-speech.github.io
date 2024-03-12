@@ -49,7 +49,7 @@
 <div style="margin-top:20px;"></div>
 
 
-##### <i class="fa fa-chevron-right"></i> Work Experiences
+##### <i class="fa fa-chevron-right"></i> Working Experiences
 <table class="table table-hover">
 
 <tr>
@@ -80,3 +80,14 @@
 </tr>
 </table>
 
+##### <i class="fa fa-chevron-right"></i> Honors
+<table class="table table-hover">
+
+<tr>
+  <td class='col-md-3'><li>Fellowship</li></td>
+  <td>
+    The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2021 – March 2024
+  </td>
+</tr> 
+
+</table>

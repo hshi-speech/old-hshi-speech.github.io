@@ -86,7 +86,7 @@
 <tr>
   <td class='col-md-3'><li>Fellowship</li></td>
   <td>
-    The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2021 – March 2024
+    The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2022 – March 2024
   </td>
 </tr> 
 

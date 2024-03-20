@@ -6,5 +6,4 @@
   volume={},
   number={},
   pages={11316-11320},
-  keywords={Adaptation models;Emotion recognition;Target recognition;Speech enhancement;Signal processing;Linguistics;Transformers;Speech emotion recognition (SER);pretrained model;multi-task learning (MTL);adapters},
   doi={10.1109/ICASSP48485.2024.10446645}}

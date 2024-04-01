@@ -8,7 +8,9 @@
   <td>
     <li>
       <font size=2>
-      Ensemble Inference for Diffusion Model-based Speech Enhancement.&nbsp;<em><a href='publications/hscma-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      Ensemble Inference for Diffusion Model-based Speech Enhancement.&nbsp;
+      <em><a href='publications/hscma-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='slices/HSCMA24-Ensemble.pptx' target='_blank'  style='text-decoration: none;'>[Slice]</a> </em>
       <em><a href='bib/hscma-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Naoyuki&nbsp;Kamo, Marc&nbsp;Delcroix, Tomohiro&nbsp;Nakatani, and Shoko&nbsp;Araki.<br>
       In Proc. HSCMA, pp.xx--xx, 2024.<br> 

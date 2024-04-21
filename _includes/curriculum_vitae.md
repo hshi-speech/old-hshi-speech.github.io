@@ -53,6 +53,15 @@
 <table class="table table-hover">
 
 <tr>
+  <td class='col-md-3'><li>Apr. 2024 - Present</li></td>
+  <td>
+    Research Fellow at Kyoto University,  <br>
+    Speech signal processing <br>
+  </td>
+</tr> 
+
+
+<tr>
   <td class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
   <td>
     Research Intern at NTT,  <br>

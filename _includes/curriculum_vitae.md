@@ -80,7 +80,7 @@
 </table>
 
 ##### <i class="fa fa-chevron-right"></i> Honors
-<table class="table table-hover" style="font-size: 12px;">
+<table class="table table-hover" style="font-size: 14px;">
 <tr>
   <td style="padding-left: 20px;" class='col-md-3'><li>Fellowship</li></td>
   <td>

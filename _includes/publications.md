@@ -269,6 +269,7 @@
 
 
 ###### <i class="fa fa-chevron-right"></i> Reports
+<table class="table table-hover">
 
 <tr id="tr-shi2023_report" >
   <td style="padding-left: 20px;">
@@ -283,3 +284,4 @@
     </li>
   </td>
 </tr>
+</table>

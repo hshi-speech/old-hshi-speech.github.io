@@ -53,7 +53,7 @@
 <table class="table table-hover">
 
 <tr>
-  <td class='col-md-3'><li>Apr. 2024 - Present</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Apr. 2024 - Present</li></td>
   <td>
     Research Fellow at Kyoto University,  <br>
     Speech signal processing <br>
@@ -62,7 +62,7 @@
 
 
 <tr>
-  <td class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
   <td>
     Research Intern at NTT,  <br>
     Speech signal processing, <br>
@@ -72,7 +72,7 @@
 
  
 <tr>
-  <td class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
   <td>
     Research Intern at Sony,  <br>
     Speech signal processing,  <br>
@@ -81,7 +81,7 @@
 </tr> 
  
 <tr>
-  <td class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>
     Research Assistant at Tianjin University,  <br>
     Speech signal processing
@@ -93,7 +93,7 @@
 <table class="table table-hover">
 
 <tr>
-  <td class='col-md-3'><li>Fellowship</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Fellowship</li></td>
   <td>
     The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2022 – March 2024
   </td>

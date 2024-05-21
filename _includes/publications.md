@@ -61,19 +61,6 @@
 </tr> 
 
 
-<tr id="tr-shi2023_report" >
-  <td style="padding-left: 20px;">
-    <li>
-      <font size=2>
-      Investigation of Adapter for Automatic Speech Recognition in Noisy Environment.&nbsp;
-      <em><a href='https://arxiv.org/pdf/2402.18275.pdf' target='_blank'>[PDF]</a> </em>
-      <em><a href='bib/report-2023-shi.txt' target='_blank'>[.bib]</a> </em><br>
-      <u>Hao&nbsp;Shi</u>, Tatsuya&nbsp;Kawahara.<br>
-      In SIG Technical Reports, pp.1--6, 2023.<br>
-      </font>
-    </li>
-  </td>
-</tr>
 <tr id="tr-zhong2023_waspaa" >
   <td style="padding-left: 20px;">
     <li>
@@ -281,4 +268,18 @@
 </table>
 
 
+###### <i class="fa fa-chevron-right"></i> Reports
 
+<tr id="tr-shi2023_report" >
+  <td style="padding-left: 20px;">
+    <li>
+      <font size=2>
+      Investigation of Adapter for Automatic Speech Recognition in Noisy Environment.&nbsp;
+      <em><a href='https://arxiv.org/pdf/2402.18275.pdf' target='_blank'>[PDF]</a> </em>
+      <em><a href='bib/report-2023-shi.txt' target='_blank'>[.bib]</a> </em><br>
+      <u>Hao&nbsp;Shi</u>, Tatsuya&nbsp;Kawahara.<br>
+      In SIG Technical Reports, pp.1--6, 2023.<br>
+      </font>
+    </li>
+  </td>
+</tr>

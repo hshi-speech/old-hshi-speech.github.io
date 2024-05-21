@@ -1,7 +1,7 @@
 ###### <i class="fa fa-chevron-right"></i> Jounral (Reviewed)
 <table class="table table-hover">
 <tr id="tr-shi2024_taslp" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Waveform-domain Speech Enhancement Using Spectrogram Encoding for Robust Speech Recognition.&nbsp;
@@ -21,7 +21,7 @@
 
 <table class="table table-hover">
 <tr id="tr-shi2024_hscma" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Ensemble Inference for Diffusion Model-based Speech Enhancement.&nbsp;
@@ -34,7 +34,7 @@
   </td>
 </tr> 
 <tr id="tr-shi2024_icassp" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Diffusion-Based Speech Enhancement with Joint Generative and Predictive Decoders.&nbsp;
@@ -47,7 +47,7 @@
   </td>
 </tr>  
 <tr id="tr-gao2024_icassp" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters.&nbsp;
@@ -62,7 +62,7 @@
 
 
 <tr id="tr-shi2023_report" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Investigation of Adapter for Automatic Speech Recognition in Noisy Environment.&nbsp;
@@ -75,7 +75,7 @@
   </td>
 </tr>
 <tr id="tr-zhong2023_waspaa" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Extending Audio Masked Autoencoders Toward Audio Restoration.&nbsp;
@@ -88,7 +88,7 @@
   </td>
 </tr> 
 <tr id="tr-shi_icassp2023" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Time-domain Speech Enhancement Assisted by Multi-resolution Frequency Encoder and Decoder.&nbsp;
@@ -103,7 +103,7 @@
 
   
 <tr id="tr-shi_resolutions_apsipa" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Fusing Multiple Bandwidth Spectrograms for Improving Speech Enhancement.&nbsp;
@@ -117,7 +117,7 @@
 </tr>  
   
 <tr id="tr-shi_subband_apsipa" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Subband-Based Spectrogram Fusion for Speech Enhancement by Combining Mapping and Masking Approaches.&nbsp;
@@ -131,7 +131,7 @@
 </tr>  
   
 <tr id="tr-shi22_interspeech">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Monaural speech enhancement based on spectrogram decomposition for convolutional neural network-sensitive feature extraction.&nbsp;
@@ -145,7 +145,7 @@
 </tr>
     
 <tr id="tr-song22_interspeech" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Language-specific Characteristic Assistance for Code-switching Speech Recognition.&nbsp;
@@ -160,7 +160,7 @@
 </tr>
     
 <tr id="tr-xu22_interspeech" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model.&nbsp;
@@ -174,7 +174,7 @@
   </td>
 </tr>    
 <tr id="tr-yang2022_iscslp" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Adaptive Attention Network with Domain Adversarial Training for Multi-Accent Speech Recognition.&nbsp;
@@ -189,7 +189,7 @@
 
 
 <tr id="tr-shi21_apsipa">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Spectrograms Fusion-based End-to-end Robust Automatic Speech Recognition.&nbsp;
@@ -203,7 +203,7 @@
 </tr>
 
 <tr id="tr-qiang21_iconip">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Speech Dereverberation Based on Scale-aware Mean Square Error Loss.&nbsp;
@@ -218,7 +218,7 @@
 </tr>
 
 <tr id="tr-yin21_iconip">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Simultaneous Progressive Filtering-based Monaural Speech Enhancement.&nbsp;
@@ -235,7 +235,7 @@
 
 
 <tr id="tr-shi20_interspeech">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Singing Voice Extraction with Attention-Based Spectrograms Fusion.&nbsp;
@@ -249,7 +249,7 @@
 </tr>
 
 <tr id="tr-9054661">
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation.&nbsp;
@@ -265,7 +265,7 @@
 
 
 <tr id="tr-ge19_interspeech" >
-  <td>
+  <td style="padding-left: 20px;">
     <li>
       <font size=2>
       Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement.&nbsp;

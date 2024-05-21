@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Homepage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            font-size: 14px; /* 全局字体大小 */
+        }
+        table {
+            font-size: 14px; /* 表格字体大小 */
+        }
+    </style>
+</head>
+<body>
+
 ##### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
   <tr>
@@ -24,7 +42,7 @@
         </p>
        </li>
     </td>
-    <td style="padding-left: 20px;" class="col-md-2" style='text-align:right;'>2018 - 2021</td>
+    <td class="col-md-2" style='text-align:right;'>2018 - 2021</td>
   </tr>
   <tr>
     <td style="padding-left: 20px;">
@@ -42,7 +60,6 @@
 
 <div style="margin-top:20px;"></div>
 
-
 ##### <i class="fa fa-chevron-right"></i> Working Experiences
 <table class="table table-hover">
 <tr>
@@ -53,7 +70,6 @@
   </td>
 </tr> 
 
-
 <tr>
   <td style="padding-left: 20px;" class='col-md-3'><li>Aug. 2023 - Sep. 2023</li></td>
   <td>
@@ -63,7 +79,6 @@
   </td>
 </tr> 
 
- 
 <tr>
   <td style="padding-left: 20px;" class='col-md-3'><li>Jan. 2023 - Mar. 2023</li></td>
   <td>
@@ -72,7 +87,7 @@
     Mentor: Kazuki Shimada, Shusuke Takahashi
   </td>
 </tr> 
- 
+
 <tr>
   <td style="padding-left: 20px;" class='col-md-3'><li>Aug. 2021 - Jan. 2022</li></td>
   <td>
@@ -84,12 +99,13 @@
 
 ##### <i class="fa fa-chevron-right"></i> Honors
 <table class="table table-hover">
-
 <tr>
   <td style="padding-left: 20px;" class='col-md-3'><li>Fellowship</li></td>
   <td>
     The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2022 – March 2024
   </td>
 </tr> 
-
 </table>
+
+</body>
+</html>

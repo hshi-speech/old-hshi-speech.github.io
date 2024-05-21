@@ -80,6 +80,11 @@
 </table>
 
 ##### <i class="fa fa-chevron-right"></i> Honors
-<table class="table table-hover" style="font-size: 14px;">
+<table class="table table-hover" style="font-size: 12px;">
 <tr>
-  <td style="padding-left: 20px;" class='col-md-
+  <td style="padding-left: 20px;" class='col-md-3'><li>Fellowship</li></td>
+  <td>
+    The establishment of university fellowships towards the creation of science and technology innovation, awarded by Japan Science and Technology Agency (JST), April 2022 – March 2024
+  </td>
+</tr> 
+</table>

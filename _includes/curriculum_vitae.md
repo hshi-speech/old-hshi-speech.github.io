@@ -9,7 +9,7 @@
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Robust Automatic Speech Recognition*
-        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: <a href="http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/" target="_blank">Tatsuya Kawahara</a>
         </p>
       </li>
     </td>
@@ -24,7 +24,7 @@
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'><br> 
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href='https://hshi-speech.github.io/data/master_thesis.pdf' target='_blank' style='text-decoration: none;'>Thesis: Spectrograms Fusion-based Speech Enhancement</a></em>
-        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
        </li>
        </font>
@@ -38,7 +38,7 @@
       B.Sc. in Computer Science, Southwest Jiaotong University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di </a>
+        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: <a href="https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/zhym/129018/list/index.htm" target="_blank">Zhixiong Di </a>
         </p>
       </li>
       </font>

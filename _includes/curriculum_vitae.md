@@ -1,6 +1,5 @@
 ##### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover">
-<font size=2>
   <tr>
     <td style="padding-left: 20px;">
      <li>
@@ -39,7 +38,6 @@
     </td>
     <td class="col-md-2" style='text-align:right;'>2014 - 2018</td>
   </tr>
-</font>
 </table>
 
 <div style="margin-top:20px;"></div>

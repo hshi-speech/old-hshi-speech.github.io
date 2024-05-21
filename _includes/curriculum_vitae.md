@@ -2,7 +2,7 @@
 <table class="table table-hover">
   <font size=2>
   <tr>
-    <td>
+    <td style="padding-left: 20px;">
      <li>
      (Candidate) Ph.D. in Informatics, Kyoto University
       <br>
@@ -16,7 +16,7 @@
   </tr>
   </font>
   <tr>
-    <td>
+    <td style="padding-left: 20px;">
       <font size=3>
       <li>
       M.Phil. in Computer Science, Tianjin University
@@ -28,10 +28,10 @@
        </li>
        </font>
     </td>
-    <td class="col-md-2" style='text-align:right;'>2018 - 2021</td>
+    <td style="padding-left: 20px;" class="col-md-2" style='text-align:right;'>2018 - 2021</td>
   </tr>
   <tr>
-    <td>
+    <td style="padding-left: 20px;">
       <font size=3>
       <li>
       B.Sc. in Computer Science, Southwest Jiaotong University

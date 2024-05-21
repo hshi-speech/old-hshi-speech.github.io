@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
         body {
-            font-size: 10px; /* 全局字体大小 */
+            font-size: 14px; /* 全局字体大小 */
         }
         table {
-            font-size: 10px; /* 表格字体大小 */
+            font-size: 14px; /* 表格字体大小 */
         }
     </style>
 </head>

@@ -5,8 +5,8 @@
     <li>
       <font size=2>
       Waveform-domain Speech Enhancement Using Spectrogram Encoding for Robust Speech Recognition.&nbsp;
-      <em><a href='publications/xxx.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
-      <em><a href='bib/xxx.txt' target='_blank'>[.bib]</a> </em><br>
+      <em><a href='publications/taslp-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='bib/taslp-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Masato&nbsp;Mimura, and Tatsuya&nbsp;Kawahara.<br>
       IEEE/ACM Transactions on Audio, Speech, and Language Processing, pp.xx--xx, 2024.<br> 
       </font>

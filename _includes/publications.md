@@ -20,6 +20,46 @@
 ###### <i class="fa fa-chevron-right"></i> Conference (Reviewed)
 
 <table class="table table-hover">
+
+<tr id="tr-shi2024_interspeech" >
+  <td style="padding-left: 20px;">
+    <li>
+      <font size=2>
+      Dual-path Adaptation of Pretrained Feature Extraction Module for Robust Automatic Speech Recognition.&nbsp;
+      <em><a href='publications/interspeech-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='bib/interspeech-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
+      <u>Hao&nbsp;Shi</u>, and Tatusya&nbsp;Kawahara.<br>
+      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      </font>
+    </li>
+  </td>
+</tr> 
+<tr id="tr-gao2024_interspeech" >
+  <td style="padding-left: 20px;">
+    <li>
+      <font size=2>
+      Speech Emotion Recognition with Multi-level Acoustic and Semantic Information Extraction and Interaction.&nbsp;
+      <em><a href='publications/interspeech-2024-gao.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='bib/interspeech-2024-gao.txt' target='_blank'>[.bib]</a> </em><br>
+      Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>, Chenhui&nbsp;Chu, and Tatsuya&nbsp;Kawahara.<br>
+      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      </font>
+    </li>
+  </td>
+</tr> 
+<tr id="tr-shu2024_interspeech" >
+  <td style="padding-left: 20px;">
+    <li>
+      <font size=2>
+      Error Correction by Paying Attention to Both Acoustic and Confidence References for Automatic Speech Recognition.&nbsp;
+      <em><a href='publications/interspeech-2024-shu.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='bib/interspeech-2024-shu.txt' target='_blank'>[.bib]</a> </em><br>
+      Yuchun&nbsp;Shu, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, and Jianwu&nbsp;Dang.<br>
+      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      </font>
+    </li>
+  </td>
+</tr> 
 <tr id="tr-shi2024_hscma" >
   <td style="padding-left: 20px;">
     <li>

@@ -237,7 +237,7 @@
       <em><a href='publications/iconip-2021-qiang.pdf' target='_blank'>[PDF]</a> </em>
       <em><a href='bib/iconip-2021-qiang.txt' target='_blank'>[.bib]</a> </em><br>
       Luya&nbsp;Qiang, <u>Hao&nbsp;Shi</u>, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang.<br>
-      In Proc of ICONIP, pp.55--63, 2021.<br> 
+      In Proc. ICONIP, pp.55--63, 2021.<br> 
       <font color=Blue>(Equal contribution)</font>
       </font>
     </li>

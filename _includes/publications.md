@@ -68,7 +68,7 @@
       <em><a href='publications/hscma-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/hscma-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Naoyuki&nbsp;Kamo, Marc&nbsp;Delcroix, Tomohiro&nbsp;Nakatani, and Shoko&nbsp;Araki.<br>
-      In Proc. HSCMA, 2024. (Accepted)<br> 
+      In Workshop on HSCMA, 2024. (Accepted)<br> 
       </font>
     </li>
   </td>
@@ -81,7 +81,7 @@
       <em><a href='publications/icassp-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/icassp-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Kazuki&nbsp;Shimada, Masato&nbsp;Hirano, Takashi&nbsp;Shibuya, Yuichiro&nbsp;Koyama, Zhi&nbsp;Zhong, Shusuke&nbsp;Takahashi, Tatsuya&nbsp;Kawahara, and Yuki&nbsp;Mitsufuji.<br>
-      In Proc. ICASSP, pp.12951--12955, 2024.<br> 
+      In Proc. IEEE-ICASSP, pp.12951--12955, 2024.<br> 
       </font>
     </li>
   </td>
@@ -94,7 +94,7 @@
       <em><a href='publications/icassp-2024-gao.pdf' target='_blank'>[PDF]</a> </em>
       <em><a href='bib/icassp-2024-gao.txt' target='_blank'>[.bib]</a> </em><br>
       Yuan&nbsp;Gao, <u>Hao&nbsp;Shi</u>,  Chenhui&nbsp;Chu, Tatsuya&nbsp;Kawahara<br>
-      In Proc. ICASSP, pp.11316--11320, 2024.<br>
+      In Proc. IEEE-ICASSP, pp.11316--11320, 2024.<br>
       </font>
     </li>
   </td>
@@ -122,7 +122,7 @@
       <em><a href='publications/icassp-2023-shi-tf.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/icassp-2023-shi-tf.txt' target='_blank'  style='text-decoration: none;'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Masato&nbsp;Mimura, Longbiao&nbsp;Wang, Jianwu&nbsp;Dang, and Tatsuya&nbsp;Kawahara.<br>
-      In Proc. ICASSP, pp.1--5, 2023.<br> 
+      In Proc. IEEE-ICASSP, pp.1--5, 2023.<br> 
       </font>
     </li>
   </td>
@@ -284,7 +284,7 @@
       <em><a href='bib/icassp-2020-shi.txt' target='_blank'>[.bib]</a> </em>
       <br>
       <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Meng&nbsp;Ge, Sheng&nbsp;Li, and Jianwu&nbsp;Dang.<br>
-      In Proc. ICASSP, pp.7539--7543, 2020.<br>
+      In Proc. IEEE-ICASSP, pp.7539--7543, 2020.<br>
       </font>
     </li>
   </td>

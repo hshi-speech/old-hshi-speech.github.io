@@ -54,7 +54,7 @@
       Error Correction by Paying Attention to Both Acoustic and Confidence References for Automatic Speech Recognition.&nbsp;
       <em><a href='publications/interspeech-2024-shu.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2024-shu.txt' target='_blank'>[.bib]</a> </em><br>
-      Yuchun&nbsp;Shu, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, and Jianwu&nbsp;Dang.<br>
+      Yuchun&nbsp;Shu, Bo&nbsp;Hu, Yifeng&nbsp;He, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, and Jianwu&nbsp;Dang.<br>
       In Proc. INTERSPEECH, 2024. (Accepted)<br> 
       </font>
     </li>

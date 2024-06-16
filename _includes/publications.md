@@ -8,7 +8,7 @@
       <em><a href='publications/taslp-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/taslp-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <u>Hao&nbsp;Shi</u>, Masato&nbsp;Mimura, and Tatsuya&nbsp;Kawahara.<br>
-      IEEE/ACM Transactions on Audio, Speech, and Language Processing, pp.xx--xx, 2024. (Accepted)<br> 
+      IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol.32, pp.3049--3060, 2024.<br> 
       </font>
     </li>
   </td>

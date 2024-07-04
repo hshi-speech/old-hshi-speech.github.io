@@ -179,8 +179,7 @@
       <em><a href='publications/interspeech-2022-song.pdf' target='_blank'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2022-song.txt' target='_blank'>[.bib]</a> </em><br>
       Tongtong&nbsp;Song, Qiang&nbsp;Xu, Meng&nbsp;Ge, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yongjie&nbsp;Lv, Yuqin&nbsp;Lin, and Jianwu&nbsp;Dang.<br>
-      In Proc. INTERSPEECH, pp.3924--3928, 2022.<br> 
-      <font color=Blue>(Corresponding author)</font>
+      In Proc. INTERSPEECH, pp.3924--3928, 2022.<br>
       </font>
     </li>
   </td>
@@ -194,8 +193,7 @@
       <em><a href='publications/interspeech-2022-xu.pdf' target='_blank'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2022-xu.txt' target='_blank'>[.bib]</a> </em><br>
       Qiang&nbsp;Xu, Tongtong&nbsp;Song, Longbiao&nbsp;Wang, <u>Hao&nbsp;Shi</u>, Yuqin&nbsp;Lin, Yongjie&nbsp;Lv, Meng&nbsp;Ge, Qiang&nbsp;Yu, and Jianwu&nbsp;Dang.<br>
-      In Proc. INTERSPEECH, pp.1716--1720, 2022.<br> 
-      <font color=Blue>(Corresponding author)</font>
+      In Proc. INTERSPEECH, pp.1716--1720, 2022.<br>
       </font>
     </li>
   </td>
@@ -237,8 +235,7 @@
       <em><a href='publications/iconip-2021-qiang.pdf' target='_blank'>[PDF]</a> </em>
       <em><a href='bib/iconip-2021-qiang.txt' target='_blank'>[.bib]</a> </em><br>
       Luya&nbsp;Qiang, <u>Hao&nbsp;Shi</u>, Meng&nbsp;Ge, Haoran&nbsp;Yin, Nan&nbsp;Li, Longbiao&nbsp;Wang, Sheng&nbsp;Li, and Jianwu&nbsp;Dang.<br>
-      In Proc. ICONIP, pp.55--63, 2021.<br> 
-      <font color=Blue>(Equal contribution)</font>
+      In Proc. ICONIP, pp.55--63, 2021.<br>
       </font>
     </li>
   </td>
@@ -254,7 +251,6 @@
       <br>
       Haoran&nbsp;Yin, <u>Hao&nbsp;Shi</u>, Longbiao&nbsp;Wang, Luya&nbsp;Qiang, Sheng&nbsp;Li, Meng&nbsp;Ge, Gaoyan&nbsp;Zhang, and Jianwu&nbsp;Dang.<br>
       In Proc. ICONIP, pp.213--221, 2021.<br>
-      <font color=Blue>(Equal contribution)</font>
       </font>
     </li>
   </td>

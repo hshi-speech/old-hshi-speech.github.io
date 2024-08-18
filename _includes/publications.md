@@ -68,7 +68,7 @@
       <em><a href='publications/hscma-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/hscma-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <font color="#FF1493"><u>Hao&nbsp;Shi</u></font>, Naoyuki&nbsp;Kamo, Marc&nbsp;Delcroix, Tomohiro&nbsp;Nakatani, and Shoko&nbsp;Araki.<br>
-      In Workshop on HSCMA, 2024. (Accepted)<br> 
+      In Proc. IEEE-ICASSPW, pp.735-739, 2024.<br> 
       </font>
     </li>
   </td>

@@ -1,3 +1,8 @@
+
+
+<a href="data/CV_hshi.pdf" target='_blank' style='color: white; text-decoration: none; font-size: 16px;'>My CV is Available for Download Here (2024-06)</a>
+
+
 ##### <i class="fa fa-chevron-right"></i> Education
 <table class="table table-hover" style="font-size: 14px;">
   <tr>

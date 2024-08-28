@@ -1,12 +1,10 @@
-<div class="container">
-  <div class="row">
-      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
-        <a href="data/CV_hshi.pdf" target='_blank' style='text-decoration: none;'>
-          <i style='color: white' class="fa fa-download"></i>
-        </a>
-        <a href="data/CV_hshi.pdf" target='_blank' style='color: white; text-decoration: none; font-size: 16px;'>My CV is Available for Download Here (2024-06)</a>
-      </div>
-  </div>
+<div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+  <a href="data/CV_hshi.pdf" target='_blank' style='text-decoration: none;'>
+    <i style='color: white;' class="fa fa-download"></i>
+  </a>
+  <a href="data/CV_hshi.pdf" target='_blank' style='color: white; text-decoration: none; font-size: 16px;'>
+    My CV is Available for Download Here (2024-06)
+  </a>
 </div>
 
 

@@ -1,4 +1,4 @@
-**<a href='https://raw.githubusercontent.com/hshi-speech/hshi-speech.github.io/main/data/CV_hshi.pdf' target='_blank' style='text-decoration: none;'>My CV is Available for Download Here</a>**
+**<a href='https://github.com/hshi-speech/hshi-speech.github.io/tree/main/data/CV_hshi.pdf' target='_blank' style='text-decoration: none;'>My CV is Available for Download Here</a>**
 
 
 ##### <i class="fa fa-chevron-right"></i> Education

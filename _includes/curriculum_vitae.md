@@ -1,5 +1,4 @@
-[![Download my CV](data/CV_hshi.pdf)](data/CV_hshi.pdf)
-**[My CV is Available for Download Here](data/CV_hshi.pdf)**
+**[My CV is Available for Download Here](https://github.com/hshi-speech/hshi-speech.github.io/tree/main/data/CV_hshi.pdf)**
 
 
 ##### <i class="fa fa-chevron-right"></i> Education

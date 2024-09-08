@@ -42,7 +42,7 @@
       <em><a href='publications/interspeech-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <font color="Black"><u>Hao&nbsp;Shi</u></font>, and Tatusya&nbsp;Kawahara.<br>
-      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      In Proc. INTERSPEECH, pp.2850--2854, 2024.<br> 
       </font>
     </li>
   </td>
@@ -55,7 +55,7 @@
       <em><a href='publications/interspeech-2024-gao.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2024-gao.txt' target='_blank'>[.bib]</a> </em><br>
       Yuan&nbsp;Gao, <font color="Black"><u>Hao&nbsp;Shi</u></font>, Chenhui&nbsp;Chu, and Tatsuya&nbsp;Kawahara.<br>
-      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      In Proc. INTERSPEECH, pp.1060--1064, 2024.<br> 
       </font>
     </li>
   </td>
@@ -68,7 +68,7 @@
       <em><a href='publications/interspeech-2024-shu.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/interspeech-2024-shu.txt' target='_blank'>[.bib]</a> </em><br>
       Yuchun&nbsp;Shu, Bo&nbsp;Hu, Yifeng&nbsp;He, <font color="Black"><u>Hao&nbsp;Shi</u></font>, Longbiao&nbsp;Wang, and Jianwu&nbsp;Dang.<br>
-      In Proc. INTERSPEECH, 2024. (Accepted)<br> 
+      In Proc. INTERSPEECH, pp.3500--3504, 2024.<br> 
       </font>
     </li>
   </td>

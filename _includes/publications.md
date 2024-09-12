@@ -26,7 +26,7 @@
     <li>
       <font size=2>
       Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition.&nbsp;
-      <em><a href='publications/slt-2024-shi.pdf' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
+      <em><a href='https://arxiv.org/pdf/2409.00815' target='_blank'  style='text-decoration: none;'>[PDF]</a> </em>
       <em><a href='bib/slt-2024-shi.txt' target='_blank'>[.bib]</a> </em><br>
       <font color="Black"><u>Hao&nbsp;Shi</u></font>, Yuan&nbsp;Gao, Zhaoheng&nbsp;Ni, and Tatusya&nbsp;Kawahara.<br>
       In Proc. SLT, 2024. (Accepted)<br> 

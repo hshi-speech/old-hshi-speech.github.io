@@ -8,7 +8,7 @@
   <tr>
     <td style="padding-left: 20px;">
      <li>
-     (Candidate) Ph.D. in Informatics, Kyoto University
+     Ph.D. in Informatics, Kyoto University
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Robust Automatic Speech Recognition*
@@ -16,7 +16,7 @@
         </p>
       </li>
     </td>
-    <td class="col-md-2" style='text-align:right;'>2021 - Current</td>
+    <td class="col-md-2" style='text-align:right;'>2021 - 2024</td>
   </tr>
   <tr>
     <td style="padding-left: 20px;">
@@ -49,8 +49,17 @@
 
 ##### <i class="fa fa-chevron-right"></i> Working Experiences
 <table class="table table-hover" style="font-size: 14px;">
+
 <tr>
-  <td style="padding-left: 20px;" class='col-md-3'><li>Apr. 2024 - Present</li></td>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Otc. 2024 - Present</li></td>
+  <td>
+    Researcher at Kyoto University,  <br>
+    Speech signal processing <br>
+  </td>
+</tr> 
+  
+<tr>
+  <td style="padding-left: 20px;" class='col-md-3'><li>Apr. 2024 - Sep. 2024</li></td>
   <td>
     Research Fellow at Kyoto University,  <br>
     Speech signal processing <br>

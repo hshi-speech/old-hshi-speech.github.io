@@ -1,4 +1,4 @@
- I am a Ph.D. student in Speech and Audio Processing Lab., (Kyoto University, Japan) where I studied under the supervision of Prof. Tatsuya Kawahara. I received the Master degree from College of Intelligence and Computing, Tianjin University. My main topics are speech enhancement and robust automatic speech recognition. <br><br>
+I am a researcher at the Speech and Audio Processing Laboratory, Kyoto University, Japan. I hold a Ph.D. from Kyoto University and a Master's degree from the College of Intelligence and Computing, Tianjin University. My research primarily focuses on speech enhancement and robust automatic speech recognition. <br><br>
 
 
 

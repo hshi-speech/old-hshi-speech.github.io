@@ -25,7 +25,7 @@
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'><br> 
           <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href='https://hshi-speech.github.io/data/master_thesis.pdf' target='_blank' style='text-decoration: none;'>Thesis: Spectrograms Fusion-based Speech Enhancement</a></em> -->
-        <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speech Enhancement*
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Speech Enhancement*
         <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: <a href="http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html" target="_blank">Longbiao Wang</a>
         </p>
        </li>
